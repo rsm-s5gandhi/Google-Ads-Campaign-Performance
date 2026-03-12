@@ -1,0 +1,817 @@
+Campaign,Device,Month,Quarter,Year,Campaign State,Clicks,Impressions,CTR,Conversions,Cost,Avg CPC,Cost per Conversion
+Search - Region - Shoes - Dress Shoes,Android,January,Q1,2018,enabled,43905,351240,12.5,304,606162874.82,13806.24,1993956.83
+Search - Region - Shoes - Dress Shoes,Ios,January,Q1,2018,removed,16628,149652,11.11,939,557524615.57,33529.26,593742.93
+Search - Region - Clothes - Skirts,Android,January,Q1,2018,enabled,7697,138546,5.56,360,72347914.58,9399.5,200966.43
+Search - Region - Clothes - Skirts,Ios,January,Q1,2018,removed,17247,86235,20.0,4697,199128238.01,11545.67,42394.77
+Search - Region - Clothes - Pants,Android,January,Q1,2018,paused,47962,863316,5.56,1905,386906784.71,8066.94,203100.67
+Search - Region - Clothes - Pants,Ios,January,Q1,2018,enabled,2425,24250,10.0,3562,305187887.39,125850.68,85678.8
+Search - Region - Shoes - Heals,Android,January,Q1,2018,enabled,16110,241650,6.67,937,119559382.54,7421.44,127598.06
+Search - Region - Shoes - Heals,Ios,January,Q1,2018,removed,25526,408416,6.25,2266,655346204.96,25673.67,289208.39
+Search - Region - Shoes - Trainers,Android,January,Q1,2018,paused,32108,256864,12.5,3200,109100148.56,3397.91,34093.8
+Search - Region - Shoes - Trainers,Ios,January,Q1,2018,enabled,43198,691168,6.25,4829,194216442.69,4495.96,40218.77
+Search - Region - Shoes - Boots,Android,January,Q1,2018,enabled,5003,60036,8.33,2470,788916140.5,157688.61,319399.25
+Search - Region - Shoes - Boots,Ios,January,Q1,2018,paused,8619,146523,5.88,2377,390057726.78,45255.57,164096.65
+Search - Region - Clothes - Shirts,Android,January,Q1,2018,paused,12659,202544,6.25,3010,207130273.08,16362.29,68814.04
+Search - Region - Clothes - Shirts,Ios,January,Q1,2018,enabled,47994,335958,14.29,1501,450604907.77,9388.78,300203.14
+Search - Region - Brand- Brand 8,Android,January,Q1,2018,removed,12708,241452,5.26,3208,252460870.09,19866.29,78697.28
+Search - Region - Brand- Brand 8,Ios,January,Q1,2018,enabled,47099,565188,8.33,2756,682138940.14,14483.09,247510.5
+Search - Region - Brand - Brand 9,Android,January,Q1,2018,enabled,17010,102060,16.67,2684,350873590.27,20627.49,130727.87
+Search - Region - Brand - Brand 9,Ios,January,Q1,2018,paused,15826,237390,6.67,1841,541578998.97,34220.84,294176.53
+Search - Region - Shoes - Running Shoes,Android,January,Q1,2018,enabled,44129,838451,5.26,1270,248660124.87,5634.85,195795.37
+Search - Region - Shoes - Running Shoes,Ios,January,Q1,2018,removed,38789,504257,7.69,4888,371325370.47,9572.96,75966.73
+Search - Region - Clothes - Dresses,Android,January,Q1,2018,enabled,28175,450800,6.25,1896,797994333.49,28322.78,420883.09
+Search - Region - Clothes - Dresses,Ios,January,Q1,2018,enabled,35392,707840,5.0,844,616836618.15,17428.7,730849.07
+Search - Region - Clothes - Hats,Android,January,Q1,2018,paused,12016,120160,10.0,3558,497306773.05,41387.05,139771.44
+Search - Region - Clothes - Hats,Ios,January,Q1,2018,removed,27009,513171,5.26,4434,238560589.99,8832.63,53802.57
+Search - Region - Shoes - Flip Flops,Android,January,Q1,2018,removed,2752,22016,12.5,4498,613158349.69,222804.63,136318.0
+Search - Region - Shoes - Flip Flops,Ios,January,Q1,2018,paused,24293,194344,12.5,2504,376073938.0,15480.75,150189.27
+Display - Region - Clothes - Shirts,Android,January,Q1,2018,removed,2212,28756,7.69,4200,621471649.29,280954.63,147969.44
+Display - Region - Clothes - Shirts,Ios,January,Q1,2018,enabled,8973,125622,7.14,4258,506727658.58,56472.49,119006.03
+Display - Region - Shoes - Boots,Android,January,Q1,2018,removed,26504,265040,10.0,4518,765124810.74,28868.28,169350.33
+Display - Region - Shoes - Boots,Ios,January,Q1,2018,paused,2037,30555,6.67,4102,64607556.79,31717.01,15750.26
+Search - Brand - Shoes - Sneakers,Android,January,Q1,2018,removed,22153,265836,8.33,574,230653694.34,10411.85,401835.7
+Search - Brand - Shoes - Sneakers,Ios,January,Q1,2018,removed,7161,50127,14.29,4081,662017440.07,92447.62,162219.42
+Display - Brand - Clothes - Jackets,Android,January,Q1,2018,enabled,10241,92169,11.11,3993,760136509.78,74224.83,190367.27
+Display - Brand - Clothes - Jackets,Ios,January,Q1,2018,removed,19370,348660,5.56,1835,746685119.75,38548.53,406912.87
+Search - Region - Shoes - Dress Shoes,Android,February,Q1,2018,removed,47211,519321,9.09,2653,349244225.0,7397.52,131641.25
+Search - Region - Shoes - Dress Shoes,Ios,February,Q1,2018,paused,44590,713440,6.25,3688,724710563.48,16252.76,196505.03
+Search - Region - Clothes - Skirts,Android,February,Q1,2018,enabled,9930,119160,8.33,1940,98019422.24,9871.04,50525.48
+Search - Region - Clothes - Skirts,Ios,February,Q1,2018,enabled,40555,486660,8.33,4920,215163038.34,5305.46,43732.32
+Search - Region - Clothes - Pants,Android,February,Q1,2018,enabled,48389,290334,16.67,1975,100550246.08,2077.96,50911.52
+Search - Region - Clothes - Pants,Ios,February,Q1,2018,removed,23654,165578,14.29,4311,228503475.78,9660.25,53004.75
+Search - Region - Shoes - Heals,Android,February,Q1,2018,removed,33812,371932,9.09,4517,149233886.54,4413.64,33038.27
+Search - Region - Shoes - Heals,Ios,February,Q1,2018,paused,39762,795240,5.0,2090,638464568.22,16057.15,305485.44
+Search - Region - Shoes - Trainers,Android,February,Q1,2018,paused,14478,115824,12.5,894,544237062.14,37590.62,608766.29
+Search - Region - Shoes - Trainers,Ios,February,Q1,2018,enabled,29759,535662,5.56,3925,697877561.28,23450.97,177803.2
+Search - Region - Shoes - Boots,Android,February,Q1,2018,paused,46129,369032,12.5,596,351965961.58,7630.04,590546.92
+Search - Region - Shoes - Boots,Ios,February,Q1,2018,paused,9161,109932,8.33,1669,192656681.33,21030.09,115432.4
+Search - Region - Clothes - Shirts,Android,February,Q1,2018,enabled,11186,201348,5.56,1603,258908858.5,23145.79,161515.2
+Search - Region - Clothes - Shirts,Ios,February,Q1,2018,removed,6940,131860,5.26,4608,123431546.15,17785.53,26786.36
+Search - Region - Brand- Brand 8,Android,February,Q1,2018,enabled,37427,187135,20.0,864,744775237.26,19899.41,862008.38
+Search - Region - Brand- Brand 8,Ios,February,Q1,2018,paused,12899,232182,5.56,4078,411018813.48,31864.39,100789.31
+Search - Region - Brand - Brand 9,Android,February,Q1,2018,paused,5842,58420,10.0,3204,51616533.76,8835.42,16110.03
+Search - Region - Brand - Brand 9,Ios,February,Q1,2018,removed,19380,368220,5.26,2436,367255614.49,18950.24,150761.75
+Search - Region - Shoes - Running Shoes,Android,February,Q1,2018,enabled,38422,768440,5.0,1368,192423400.45,5008.16,140660.38
+Search - Region - Shoes - Running Shoes,Ios,February,Q1,2018,removed,5832,34992,16.67,2669,92873954.68,15924.89,34797.29
+Search - Region - Clothes - Dresses,Android,February,Q1,2018,enabled,33246,332460,10.0,565,770584177.46,23178.25,1363865.8
+Search - Region - Clothes - Dresses,Ios,February,Q1,2018,enabled,14178,99246,14.29,4974,100970647.53,7121.64,20299.69
+Search - Region - Clothes - Hats,Android,February,Q1,2018,removed,28461,227688,12.5,4766,234661510.84,8245.02,49236.57
+Search - Region - Clothes - Hats,Ios,February,Q1,2018,removed,4604,32228,14.29,3534,543029873.35,117947.41,153658.71
+Search - Region - Shoes - Flip Flops,Android,February,Q1,2018,removed,36261,543915,6.67,2236,203194399.57,5603.66,90874.06
+Search - Region - Shoes - Flip Flops,Ios,February,Q1,2018,removed,22590,271080,8.33,2275,346839385.09,15353.67,152456.87
+Display - Region - Clothes - Shirts,Android,February,Q1,2018,enabled,44303,620242,7.14,3845,287132897.2,6481.12,74676.96
+Display - Region - Clothes - Shirts,Ios,February,Q1,2018,enabled,2610,49590,5.26,4712,797072335.89,305391.7,169157.97
+Display - Region - Shoes - Boots,Android,February,Q1,2018,paused,37234,409574,9.09,4244,248900311.06,6684.76,58647.58
+Display - Region - Shoes - Boots,Ios,February,Q1,2018,paused,6508,78096,8.33,3127,263740543.41,40525.59,84342.99
+Search - Brand - Shoes - Sneakers,Android,February,Q1,2018,removed,37600,526400,7.14,4433,55867330.36,1485.83,12602.6
+Search - Brand - Shoes - Sneakers,Ios,February,Q1,2018,enabled,21620,172960,12.5,1200,248349441.12,11487.02,206957.87
+Display - Brand - Clothes - Jackets,Android,February,Q1,2018,enabled,38256,344304,11.11,2331,261317203.59,6830.75,112105.19
+Display - Brand - Clothes - Jackets,Ios,February,Q1,2018,paused,49029,735435,6.67,1767,565622846.6,11536.5,320103.48
+Search - Region - Shoes - Dress Shoes,Android,March,Q1,2018,enabled,35122,702440,5.0,2157,729002368.31,20756.29,337970.5
+Search - Region - Shoes - Dress Shoes,Ios,March,Q1,2018,paused,8048,144864,5.56,2366,83065071.35,10321.21,35107.81
+Search - Region - Clothes - Skirts,Android,March,Q1,2018,removed,10573,137449,7.69,1423,605923181.26,57308.54,425806.87
+Search - Region - Clothes - Skirts,Ios,March,Q1,2018,enabled,48246,868428,5.56,4694,57252274.71,1186.67,12196.91
+Search - Region - Clothes - Pants,Android,March,Q1,2018,paused,47286,425574,11.11,4569,77021103.55,1628.84,16857.32
+Search - Region - Clothes - Pants,Ios,March,Q1,2018,paused,40175,361575,11.11,3620,145584139.46,3623.75,40216.61
+Search - Region - Shoes - Heals,Android,March,Q1,2018,enabled,25897,155382,16.67,3031,207557403.75,8014.73,68478.19
+Search - Region - Shoes - Heals,Ios,March,Q1,2018,paused,45708,365664,12.5,2997,635087181.4,13894.44,211907.63
+Search - Region - Shoes - Trainers,Android,March,Q1,2018,enabled,42675,384075,11.11,2039,698454272.16,16366.83,342547.46
+Search - Region - Shoes - Trainers,Ios,March,Q1,2018,paused,29020,145100,20.0,1569,602423353.82,20758.9,383953.7
+Search - Region - Shoes - Boots,Android,March,Q1,2018,removed,28982,347784,8.33,2285,169398382.24,5844.95,74134.96
+Search - Region - Shoes - Boots,Ios,March,Q1,2018,enabled,9084,154428,5.88,417,693944938.5,76392.0,1664136.54
+Search - Region - Clothes - Shirts,Android,March,Q1,2018,enabled,15079,286501,5.26,2964,278893150.5,18495.47,94093.51
+Search - Region - Clothes - Shirts,Ios,March,Q1,2018,paused,16609,83045,20.0,1682,348849483.92,21003.64,207401.6
+Search - Region - Brand- Brand 8,Android,March,Q1,2018,paused,6549,85137,7.69,2976,531111303.96,81098.08,178464.82
+Search - Region - Brand- Brand 8,Ios,March,Q1,2018,paused,46532,697980,6.67,326,136506313.89,2933.6,418731.02
+Search - Region - Brand - Brand 9,Android,March,Q1,2018,paused,13702,178126,7.69,413,131301910.41,9582.68,317922.3
+Search - Region - Brand - Brand 9,Ios,March,Q1,2018,removed,24654,369810,6.67,3674,504656639.98,20469.56,137358.91
+Search - Region - Shoes - Running Shoes,Android,March,Q1,2018,enabled,9578,162826,5.88,4823,192559080.88,20104.31,39925.17
+Search - Region - Shoes - Running Shoes,Ios,March,Q1,2018,removed,48450,872100,5.56,113,439940261.42,9080.29,3893276.65
+Search - Region - Clothes - Dresses,Android,March,Q1,2018,removed,47013,517143,9.09,3083,373473049.72,7944.04,121139.49
+Search - Region - Clothes - Dresses,Ios,March,Q1,2018,paused,23639,354585,6.67,1120,589815697.26,24950.96,526621.16
+Search - Region - Clothes - Hats,Android,March,Q1,2018,removed,35234,493276,7.14,3445,294637178.64,8362.3,85526.03
+Search - Region - Clothes - Hats,Ios,March,Q1,2018,paused,21376,192384,11.11,1671,365334750.33,17090.88,218632.41
+Search - Region - Shoes - Flip Flops,Android,March,Q1,2018,removed,46388,463880,10.0,4762,275712405.92,5943.61,57898.45
+Search - Region - Shoes - Flip Flops,Ios,March,Q1,2018,removed,2026,28364,7.14,2450,207637013.66,102486.19,84749.8
+Display - Region - Clothes - Shirts,Android,March,Q1,2018,removed,41758,626370,6.67,3909,381339512.63,9132.13,97554.24
+Display - Region - Clothes - Shirts,Ios,March,Q1,2018,paused,16005,320100,5.0,1490,544138058.75,33998.0,365193.33
+Display - Region - Shoes - Boots,Android,March,Q1,2018,enabled,35780,536700,6.67,865,663817598.4,18552.76,767419.19
+Display - Region - Shoes - Boots,Ios,March,Q1,2018,enabled,46092,645288,7.14,1940,654922170.93,14209.02,337588.75
+Search - Brand - Shoes - Sneakers,Android,March,Q1,2018,removed,3600,21600,16.67,2105,787952017.09,218875.56,374324.0
+Search - Brand - Shoes - Sneakers,Ios,March,Q1,2018,removed,6772,128668,5.26,3495,714602681.79,105523.14,204464.29
+Display - Brand - Clothes - Jackets,Android,March,Q1,2018,enabled,14742,250614,5.88,4149,349739647.16,23724.03,84294.93
+Display - Brand - Clothes - Jackets,Ios,March,Q1,2018,enabled,44995,224975,20.0,973,633815305.08,14086.35,651403.19
+Search - Region - Shoes - Dress Shoes,Android,April,Q2,2018,enabled,13526,256994,5.26,511,468054345.53,34604.05,915957.62
+Search - Region - Shoes - Dress Shoes,Ios,April,Q2,2018,removed,31914,287226,11.11,3906,550683299.44,17255.23,140983.95
+Search - Region - Clothes - Skirts,Android,April,Q2,2018,removed,41023,615345,6.67,3725,509489242.07,12419.6,136775.64
+Search - Region - Clothes - Skirts,Ios,April,Q2,2018,enabled,35081,631458,5.56,4588,384435209.06,10958.5,83791.46
+Search - Region - Clothes - Pants,Android,April,Q2,2018,removed,33108,629052,5.26,2223,613832589.88,18540.31,276128.02
+Search - Region - Clothes - Pants,Ios,April,Q2,2018,enabled,20173,403460,5.0,2059,255948085.19,12687.66,124306.99
+Search - Region - Shoes - Heals,Android,April,Q2,2018,paused,48762,682668,7.14,2020,253786330.31,5204.59,125636.8
+Search - Region - Shoes - Heals,Ios,April,Q2,2018,paused,37399,261793,14.29,1233,163122993.51,4361.69,132297.64
+Search - Region - Shoes - Trainers,Android,April,Q2,2018,paused,47478,427302,11.11,1852,98171638.04,2067.73,53008.44
+Search - Region - Shoes - Trainers,Ios,April,Q2,2018,paused,23684,449996,5.26,3506,96699282.94,4082.89,27581.08
+Search - Region - Shoes - Boots,Android,April,Q2,2018,enabled,27524,137620,20.0,4816,335285771.7,12181.58,69619.14
+Search - Region - Shoes - Boots,Ios,April,Q2,2018,paused,25052,350728,7.14,3294,690085962.93,27546.14,209497.86
+Search - Region - Clothes - Shirts,Android,April,Q2,2018,paused,37272,447264,8.33,4099,214566225.97,5756.77,52345.99
+Search - Region - Clothes - Shirts,Ios,April,Q2,2018,removed,33827,169135,20.0,3285,302097157.77,8930.65,91962.61
+Search - Region - Brand- Brand 8,Android,April,Q2,2018,removed,28497,284970,10.0,3928,739656215.5,25955.58,188303.52
+Search - Region - Brand- Brand 8,Ios,April,Q2,2018,removed,37004,185020,20.0,3327,493919581.72,13347.73,148457.94
+Search - Region - Brand - Brand 9,Android,April,Q2,2018,paused,3776,26432,14.29,3611,151774615.42,40194.55,42031.19
+Search - Region - Brand - Brand 9,Ios,April,Q2,2018,enabled,13909,83454,16.67,2231,334327898.14,24036.8,149855.62
+Search - Region - Shoes - Running Shoes,Android,April,Q2,2018,paused,31799,476985,6.67,2864,620922280.92,19526.47,216802.47
+Search - Region - Shoes - Running Shoes,Ios,April,Q2,2018,paused,20235,364230,5.56,2166,676183186.18,33416.52,312180.6
+Search - Region - Clothes - Dresses,Android,April,Q2,2018,enabled,3270,19620,16.67,2966,218166624.29,66717.62,73555.84
+Search - Region - Clothes - Dresses,Ios,April,Q2,2018,enabled,44713,268278,16.67,354,762208799.54,17046.69,2153132.2
+Search - Region - Clothes - Hats,Android,April,Q2,2018,removed,3335,30015,11.11,2054,144665731.16,43378.03,70431.22
+Search - Region - Clothes - Hats,Ios,April,Q2,2018,paused,9496,104456,9.09,3909,574598728.43,60509.55,146993.79
+Search - Region - Shoes - Flip Flops,Android,April,Q2,2018,enabled,12996,103968,12.5,1441,773540579.78,59521.44,536808.17
+Search - Region - Shoes - Flip Flops,Ios,April,Q2,2018,paused,39924,199620,20.0,2655,481847546.31,12069.12,181486.83
+Display - Region - Clothes - Shirts,Android,April,Q2,2018,removed,27995,307945,9.09,722,494073395.94,17648.63,684312.18
+Display - Region - Clothes - Shirts,Ios,April,Q2,2018,removed,17915,143320,12.5,2570,687719929.32,38387.94,267595.3
+Display - Region - Shoes - Boots,Android,April,Q2,2018,removed,9933,59598,16.67,2944,449558933.98,45259.13,152703.44
+Display - Region - Shoes - Boots,Ios,April,Q2,2018,enabled,26285,183995,14.29,4244,535657440.54,20378.83,126215.23
+Search - Brand - Shoes - Sneakers,Android,April,Q2,2018,paused,29528,590560,5.0,964,375142550.99,12704.64,389152.02
+Search - Brand - Shoes - Sneakers,Ios,April,Q2,2018,removed,43653,829407,5.26,1353,376615358.76,8627.48,278355.77
+Display - Brand - Clothes - Jackets,Android,April,Q2,2018,paused,36193,470509,7.69,4508,630981087.78,17433.79,139969.19
+Display - Brand - Clothes - Jackets,Ios,April,Q2,2018,enabled,30545,397085,7.69,2740,688784870.01,22549.84,251381.34
+Search - Region - Shoes - Dress Shoes,Android,May,Q2,2018,removed,20279,385301,5.26,2097,612857211.37,30221.27,292254.27
+Search - Region - Shoes - Dress Shoes,Ios,May,Q2,2018,paused,41998,713966,5.88,2855,71524998.33,1703.06,25052.54
+Search - Region - Clothes - Skirts,Android,May,Q2,2018,paused,13917,278340,5.0,1837,316118724.63,22714.57,172084.23
+Search - Region - Clothes - Skirts,Ios,May,Q2,2018,paused,24304,315952,7.69,4983,575887812.75,23695.19,115570.5
+Search - Region - Clothes - Pants,Android,May,Q2,2018,enabled,38424,192120,20.0,4332,761046933.33,19806.55,175680.27
+Search - Region - Clothes - Pants,Ios,May,Q2,2018,enabled,17817,320706,5.56,4102,466382158.69,26176.25,113696.28
+Search - Region - Shoes - Heals,Android,May,Q2,2018,enabled,47259,945180,5.0,4120,386130912.19,8170.53,93721.1
+Search - Region - Shoes - Heals,Ios,May,Q2,2018,enabled,8098,113372,7.14,1915,353300846.51,43628.16,184491.3
+Search - Region - Shoes - Trainers,Android,May,Q2,2018,paused,22067,353072,6.25,3976,465104716.26,21076.93,116978.05
+Search - Region - Shoes - Trainers,Ios,May,Q2,2018,paused,29885,448275,6.67,2982,577141206.64,19312.07,193541.65
+Search - Region - Shoes - Boots,Android,May,Q2,2018,enabled,22094,287222,7.69,1988,140491913.56,6358.83,70669.98
+Search - Region - Shoes - Boots,Ios,May,Q2,2018,removed,22679,181432,12.5,4489,763158170.3,33650.43,170006.28
+Search - Region - Clothes - Shirts,Android,May,Q2,2018,paused,14133,155463,9.09,1872,603953490.13,42733.57,322624.73
+Search - Region - Clothes - Shirts,Ios,May,Q2,2018,paused,49486,692804,7.14,923,674471272.5,13629.54,730738.11
+Search - Region - Brand- Brand 8,Android,May,Q2,2018,removed,16908,270528,6.25,1569,276700691.59,16365.08,176354.81
+Search - Region - Brand- Brand 8,Ios,May,Q2,2018,enabled,37005,333045,11.11,2347,84136775.74,2273.66,35848.65
+Search - Region - Brand - Brand 9,Android,May,Q2,2018,paused,38264,535696,7.14,1134,528402241.33,13809.38,465963.18
+Search - Region - Brand - Brand 9,Ios,May,Q2,2018,paused,8723,43615,20.0,4802,263254495.35,30179.35,54821.84
+Search - Region - Shoes - Running Shoes,Android,May,Q2,2018,paused,30866,462990,6.67,1610,774123232.35,25080.13,480821.88
+Search - Region - Shoes - Running Shoes,Ios,May,Q2,2018,enabled,33308,266464,12.5,635,350530581.69,10523.92,552016.66
+Search - Region - Clothes - Dresses,Android,May,Q2,2018,removed,39815,238890,16.67,1342,161898188.36,4066.26,120639.48
+Search - Region - Clothes - Dresses,Ios,May,Q2,2018,paused,21912,153384,14.29,2133,138838671.66,6336.19,65090.8
+Search - Region - Clothes - Hats,Android,May,Q2,2018,paused,41735,500820,8.33,4380,335283519.61,8033.63,76548.75
+Search - Region - Clothes - Hats,Ios,May,Q2,2018,enabled,21487,386766,5.56,2601,476472102.97,22174.9,183188.04
+Search - Region - Shoes - Flip Flops,Android,May,Q2,2018,paused,41952,335616,12.5,1802,519136272.8,12374.53,288088.94
+Search - Region - Shoes - Flip Flops,Ios,May,Q2,2018,removed,45281,316967,14.29,1386,229898883.26,5077.16,165872.21
+Display - Region - Clothes - Shirts,Android,May,Q2,2018,removed,6919,69190,10.0,121,356388179.5,51508.63,2945356.86
+Display - Region - Clothes - Shirts,Ios,May,Q2,2018,paused,40916,818320,5.0,2485,74479891.54,1820.31,29971.79
+Display - Region - Shoes - Boots,Android,May,Q2,2018,enabled,48331,676634,7.14,3819,103384820.12,2139.1,27071.18
+Display - Region - Shoes - Boots,Ios,May,Q2,2018,enabled,19337,212707,9.09,3582,136082226.85,7037.4,37990.57
+Search - Brand - Shoes - Sneakers,Android,May,Q2,2018,enabled,44443,399987,11.11,2276,669973369.74,15074.89,294364.4
+Search - Brand - Shoes - Sneakers,Ios,May,Q2,2018,removed,5908,59080,10.0,2619,496283027.99,84001.87,189493.33
+Display - Brand - Clothes - Jackets,Android,May,Q2,2018,paused,20914,397366,5.26,1118,401523477.71,19198.79,359144.43
+Display - Brand - Clothes - Jackets,Ios,May,Q2,2018,paused,47857,813569,5.88,2330,425354132.84,8888.02,182555.42
+Search - Region - Shoes - Dress Shoes,Android,June,Q2,2018,paused,30688,214816,14.29,4999,79895588.14,2603.48,15982.31
+Search - Region - Shoes - Dress Shoes,Ios,June,Q2,2018,removed,23123,300599,7.69,311,118495164.97,5124.56,381013.39
+Search - Region - Clothes - Skirts,Android,June,Q2,2018,enabled,39696,198480,20.0,2307,482185238.45,12146.95,209009.64
+Search - Region - Clothes - Skirts,Ios,June,Q2,2018,removed,32834,623846,5.26,2378,186116860.42,5668.42,78266.13
+Search - Region - Clothes - Pants,Android,June,Q2,2018,paused,30566,611320,5.0,847,402507796.22,13168.48,475215.82
+Search - Region - Clothes - Pants,Ios,June,Q2,2018,paused,23843,357645,6.67,956,693299820.8,29077.71,725209.02
+Search - Region - Shoes - Heals,Android,June,Q2,2018,paused,28977,579540,5.0,2461,546937652.74,18874.89,222242.04
+Search - Region - Shoes - Heals,Ios,June,Q2,2018,paused,38051,228306,16.67,3825,116044844.58,3049.72,30338.52
+Search - Region - Shoes - Trainers,Android,June,Q2,2018,enabled,23186,185488,12.5,3411,698682938.04,30133.83,204832.29
+Search - Region - Shoes - Trainers,Ios,June,Q2,2018,removed,45100,856900,5.26,3485,90653064.03,2010.05,26012.36
+Search - Region - Shoes - Boots,Android,June,Q2,2018,enabled,25709,514180,5.0,3721,619992902.05,24115.79,166619.97
+Search - Region - Shoes - Boots,Ios,June,Q2,2018,removed,19501,175509,11.11,2459,378587071.3,19413.73,153959.77
+Search - Region - Clothes - Shirts,Android,June,Q2,2018,removed,33766,270128,12.5,336,779860111.87,23096.02,2321012.24
+Search - Region - Clothes - Shirts,Ios,June,Q2,2018,removed,17682,176820,10.0,2645,463129255.25,26192.13,175096.13
+Search - Region - Brand- Brand 8,Android,June,Q2,2018,enabled,28738,201166,14.29,1940,794192854.55,27635.63,409377.76
+Search - Region - Brand- Brand 8,Ios,June,Q2,2018,removed,32241,257928,12.5,1361,423781628.53,13144.18,311375.19
+Search - Region - Brand - Brand 9,Android,June,Q2,2018,paused,21127,274651,7.69,3503,676042959.18,31999.0,192989.71
+Search - Region - Brand - Brand 9,Ios,June,Q2,2018,enabled,17973,341487,5.26,4615,158481476.36,8817.75,34340.51
+Search - Region - Shoes - Running Shoes,Android,June,Q2,2018,paused,41280,371520,11.11,671,257185552.12,6230.27,383286.96
+Search - Region - Shoes - Running Shoes,Ios,June,Q2,2018,paused,24274,315562,7.69,121,262129237.46,10798.77,2166357.33
+Search - Region - Clothes - Dresses,Android,June,Q2,2018,paused,40465,809300,5.0,1317,384910544.78,9512.18,292263.13
+Search - Region - Clothes - Dresses,Ios,June,Q2,2018,paused,24618,369270,6.67,4621,622154508.21,25272.34,134636.34
+Search - Region - Clothes - Hats,Android,June,Q2,2018,enabled,31841,477615,6.67,1645,785580973.5,24671.99,477556.82
+Search - Region - Clothes - Hats,Ios,June,Q2,2018,paused,39473,671041,5.88,2013,692009731.99,17531.22,343770.36
+Search - Region - Shoes - Flip Flops,Android,June,Q2,2018,paused,4860,72900,6.67,3974,578920910.77,119119.53,145677.13
+Search - Region - Shoes - Flip Flops,Ios,June,Q2,2018,enabled,27302,245718,11.11,4157,773618328.78,28335.59,186100.15
+Display - Region - Clothes - Shirts,Android,June,Q2,2018,paused,34918,523770,6.67,922,705642780.54,20208.57,765339.24
+Display - Region - Clothes - Shirts,Ios,June,Q2,2018,paused,8534,162146,5.26,225,591832870.68,69350.0,2630368.31
+Display - Region - Shoes - Boots,Android,June,Q2,2018,paused,44911,404199,11.11,712,402117950.74,8953.66,564772.4
+Display - Region - Shoes - Boots,Ios,June,Q2,2018,removed,24187,411179,5.88,757,688823969.26,28479.1,909939.19
+Search - Brand - Shoes - Sneakers,Android,June,Q2,2018,paused,36971,628507,5.88,2694,520099384.26,14067.77,193058.42
+Search - Brand - Shoes - Sneakers,Ios,June,Q2,2018,removed,37456,224736,16.67,660,226077682.33,6035.82,342541.94
+Display - Brand - Clothes - Jackets,Android,June,Q2,2018,enabled,20833,249996,8.33,840,375478603.94,18023.26,446998.34
+Display - Brand - Clothes - Jackets,Ios,June,Q2,2018,paused,43533,348264,12.5,3734,174773590.05,4014.74,46806.0
+Search - Region - Shoes - Dress Shoes,Android,July,Q3,2018,paused,3897,23382,16.67,2757,647107598.87,166052.76,234714.4
+Search - Region - Shoes - Dress Shoes,Ios,July,Q3,2018,removed,25492,407872,6.25,3628,159177346.77,6244.21,43874.68
+Search - Region - Clothes - Skirts,Android,July,Q3,2018,removed,29004,290040,10.0,1492,181302016.3,6250.93,121516.1
+Search - Region - Clothes - Skirts,Ios,July,Q3,2018,enabled,27070,324840,8.33,4176,734621762.02,27137.86,175915.17
+Search - Region - Clothes - Pants,Android,July,Q3,2018,removed,17216,327104,5.26,2180,394677874.38,22925.06,181044.9
+Search - Region - Clothes - Pants,Ios,July,Q3,2018,enabled,2615,49685,5.26,2456,558208164.27,213463.93,227283.45
+Search - Region - Shoes - Heals,Android,July,Q3,2018,paused,6840,129960,5.26,2930,790738771.41,115605.08,269876.71
+Search - Region - Shoes - Heals,Ios,July,Q3,2018,paused,43873,789714,5.56,2148,392626859.5,8949.17,182787.18
+Search - Region - Shoes - Trainers,Android,July,Q3,2018,paused,15055,255935,5.88,4058,129989950.57,8634.34,32033.01
+Search - Region - Shoes - Trainers,Ios,July,Q3,2018,removed,39481,631696,6.25,4808,271904292.66,6886.97,56552.47
+Search - Region - Shoes - Boots,Android,July,Q3,2018,removed,21348,106740,20.0,3342,255860285.13,11985.21,76559.03
+Search - Region - Shoes - Boots,Ios,July,Q3,2018,paused,46944,281664,16.67,4169,674629174.75,14370.94,161820.38
+Search - Region - Clothes - Shirts,Android,July,Q3,2018,removed,17081,273296,6.25,1894,527463408.5,30880.12,278491.77
+Search - Region - Clothes - Shirts,Ios,July,Q3,2018,removed,18425,165825,11.11,895,727552778.05,39487.26,812908.13
+Search - Region - Brand- Brand 8,Android,July,Q3,2018,paused,4583,64162,7.14,3711,75023398.43,16369.93,20216.49
+Search - Region - Brand- Brand 8,Ios,July,Q3,2018,paused,49995,449955,11.11,838,732220859.24,14645.88,873771.91
+Search - Region - Brand - Brand 9,Android,July,Q3,2018,removed,29230,292300,10.0,1744,149119848.31,5101.6,85504.5
+Search - Region - Brand - Brand 9,Ios,July,Q3,2018,paused,25976,337688,7.69,1447,242727563.42,9344.3,167745.38
+Search - Region - Shoes - Running Shoes,Android,July,Q3,2018,enabled,21342,320130,6.67,1043,401248541.64,18800.89,384706.18
+Search - Region - Shoes - Running Shoes,Ios,July,Q3,2018,removed,11224,134688,8.33,3355,775452310.48,69088.77,231133.33
+Search - Region - Clothes - Dresses,Android,July,Q3,2018,removed,25971,181797,14.29,3332,60438991.33,2327.17,18138.95
+Search - Region - Clothes - Dresses,Ios,July,Q3,2018,removed,10099,191881,5.26,3119,554621286.41,54918.44,177820.23
+Search - Region - Clothes - Hats,Android,July,Q3,2018,enabled,19181,326077,5.88,3143,131259576.65,6843.21,41762.51
+Search - Region - Clothes - Hats,Ios,July,Q3,2018,removed,32898,164490,20.0,4699,296004711.36,8997.65,62993.13
+Search - Region - Shoes - Flip Flops,Android,July,Q3,2018,paused,16507,115549,14.29,3903,732040728.82,44347.29,187558.48
+Search - Region - Shoes - Flip Flops,Ios,July,Q3,2018,enabled,44548,801864,5.56,1055,154832759.38,3475.64,146760.91
+Display - Region - Clothes - Shirts,Android,July,Q3,2018,removed,21946,438920,5.0,1051,122893998.97,5599.84,116930.54
+Display - Region - Clothes - Shirts,Ios,July,Q3,2018,removed,10890,185130,5.88,3816,328258636.62,30143.13,86021.66
+Display - Region - Shoes - Boots,Android,July,Q3,2018,enabled,47644,857592,5.56,4911,606701761.07,12734.06,123539.35
+Display - Region - Shoes - Boots,Ios,July,Q3,2018,paused,29189,233512,12.5,4108,511739160.54,17531.92,124571.36
+Search - Brand - Shoes - Sneakers,Android,July,Q3,2018,enabled,4144,66304,6.25,1879,382537314.55,92311.13,203585.59
+Search - Brand - Shoes - Sneakers,Ios,July,Q3,2018,removed,25768,206144,12.5,3109,458349396.11,17787.54,147426.63
+Display - Brand - Clothes - Jackets,Android,July,Q3,2018,enabled,25506,153036,16.67,3361,256911080.65,10072.57,76438.88
+Display - Brand - Clothes - Jackets,Ios,July,Q3,2018,removed,31800,222600,14.29,1837,531278350.42,16706.87,289209.77
+Search - Region - Shoes - Dress Shoes,Android,August,Q3,2018,enabled,3399,20394,16.67,2832,232676672.87,68454.45,82159.84
+Search - Region - Shoes - Dress Shoes,Ios,August,Q3,2018,removed,39000,429000,9.09,662,672363377.91,17240.09,1015654.65
+Search - Region - Clothes - Skirts,Android,August,Q3,2018,enabled,15576,171336,9.09,2008,296419665.07,19030.54,147619.36
+Search - Region - Clothes - Skirts,Ios,August,Q3,2018,enabled,41058,205290,20.0,2371,693804594.79,16898.16,292621.09
+Search - Region - Clothes - Pants,Android,August,Q3,2018,enabled,10519,136747,7.69,1529,132444760.92,12591.0,86621.82
+Search - Region - Clothes - Pants,Ios,August,Q3,2018,enabled,10637,53185,20.0,3034,642488498.18,60401.29,211762.85
+Search - Region - Shoes - Heals,Android,August,Q3,2018,enabled,40591,608865,6.67,229,180684651.05,4451.35,789015.94
+Search - Region - Shoes - Heals,Ios,August,Q3,2018,enabled,10307,185526,5.56,4409,135236980.09,13120.89,30672.94
+Search - Region - Shoes - Trainers,Android,August,Q3,2018,enabled,33211,631009,5.26,3065,434928468.21,13095.92,141901.62
+Search - Region - Shoes - Trainers,Ios,August,Q3,2018,removed,31622,379464,8.33,455,595432247.87,18829.68,1308642.3
+Search - Region - Shoes - Boots,Android,August,Q3,2018,enabled,36173,506422,7.14,3852,532505513.15,14721.08,138241.31
+Search - Region - Shoes - Boots,Ios,August,Q3,2018,enabled,5986,119720,5.0,3390,369705214.46,61761.65,109057.59
+Search - Region - Clothes - Shirts,Android,August,Q3,2018,paused,34130,648470,5.26,702,724450073.84,21226.2,1031980.16
+Search - Region - Clothes - Shirts,Ios,August,Q3,2018,removed,41865,376785,11.11,638,144643691.23,3455.0,226714.25
+Search - Region - Brand- Brand 8,Android,August,Q3,2018,removed,43489,652335,6.67,3220,795970816.9,18302.81,247195.91
+Search - Region - Brand- Brand 8,Ios,August,Q3,2018,enabled,21326,405194,5.26,4241,504070093.65,23636.41,118856.42
+Search - Region - Brand - Brand 9,Android,August,Q3,2018,enabled,47991,383928,12.5,4616,590629937.49,12307.1,127952.76
+Search - Region - Brand - Brand 9,Ios,August,Q3,2018,paused,30185,573515,5.26,1971,360360178.38,11938.39,182831.14
+Search - Region - Shoes - Running Shoes,Android,August,Q3,2018,paused,28131,506358,5.56,878,284411262.5,10110.24,323930.82
+Search - Region - Shoes - Running Shoes,Ios,August,Q3,2018,removed,45588,592644,7.69,3166,765194388.21,16785.0,241691.22
+Search - Region - Clothes - Dresses,Android,August,Q3,2018,enabled,33081,231567,14.29,847,673828916.36,20369.06,795547.72
+Search - Region - Clothes - Dresses,Ios,August,Q3,2018,removed,30303,242424,12.5,3152,658826963.96,21741.31,209018.71
+Search - Region - Clothes - Hats,Android,August,Q3,2018,removed,5930,88950,6.67,1101,358106474.69,60388.95,325255.65
+Search - Region - Clothes - Hats,Ios,August,Q3,2018,paused,29717,178302,16.67,2456,500307568.42,16835.74,203708.29
+Search - Region - Shoes - Flip Flops,Android,August,Q3,2018,enabled,8789,96679,9.09,1367,542552227.24,61730.83,396892.63
+Search - Region - Shoes - Flip Flops,Ios,August,Q3,2018,paused,9092,145472,6.25,4656,325670787.96,35819.49,69946.48
+Display - Region - Clothes - Shirts,Android,August,Q3,2018,removed,39624,475488,8.33,3615,683866371.0,17258.89,189174.65
+Display - Region - Clothes - Shirts,Ios,August,Q3,2018,paused,42211,211055,20.0,2290,71714885.8,1698.96,31316.54
+Display - Region - Shoes - Boots,Android,August,Q3,2018,enabled,48052,672728,7.14,2883,313267565.55,6519.34,108660.27
+Display - Region - Shoes - Boots,Ios,August,Q3,2018,removed,11388,193596,5.88,670,156405990.61,13734.28,233441.78
+Search - Brand - Shoes - Sneakers,Android,August,Q3,2018,paused,4009,28063,14.29,4445,211349660.03,52718.8,47547.73
+Search - Brand - Shoes - Sneakers,Ios,August,Q3,2018,removed,31730,475950,6.67,1389,327539819.36,10322.72,235809.81
+Display - Brand - Clothes - Jackets,Android,August,Q3,2018,removed,23258,162806,14.29,530,166684927.55,7166.78,314499.86
+Display - Brand - Clothes - Jackets,Ios,August,Q3,2018,paused,5261,36827,14.29,2329,382334730.75,72673.39,164162.62
+Search - Region - Shoes - Dress Shoes,Android,September,Q3,2018,removed,33828,642732,5.26,3492,254875133.27,7534.44,72988.3
+Search - Region - Shoes - Dress Shoes,Ios,September,Q3,2018,removed,9459,151344,6.25,3621,133167329.15,14078.37,36776.4
+Search - Region - Clothes - Skirts,Android,September,Q3,2018,enabled,46465,929300,5.0,4416,550349419.05,11844.39,124626.23
+Search - Region - Clothes - Skirts,Ios,September,Q3,2018,paused,16451,279667,5.88,548,55765314.42,3389.78,101761.52
+Search - Region - Clothes - Pants,Android,September,Q3,2018,enabled,15843,142587,11.11,2193,267085348.41,16858.26,121789.94
+Search - Region - Clothes - Pants,Ios,September,Q3,2018,paused,2506,50120,5.0,3627,181771101.41,72534.36,50116.1
+Search - Region - Shoes - Heals,Android,September,Q3,2018,removed,36903,442836,8.33,4198,469042675.76,12710.15,111730.03
+Search - Region - Shoes - Heals,Ios,September,Q3,2018,enabled,25210,176470,14.29,3352,696323271.52,27620.92,207733.67
+Search - Region - Shoes - Trainers,Android,September,Q3,2018,paused,30588,152940,20.0,3866,740871825.88,24221.0,191637.82
+Search - Region - Shoes - Trainers,Ios,September,Q3,2018,removed,39732,715176,5.56,4797,353317163.38,8892.51,73653.78
+Search - Region - Shoes - Boots,Android,September,Q3,2018,paused,29373,411222,7.14,1043,353774230.3,12044.2,339189.1
+Search - Region - Shoes - Boots,Ios,September,Q3,2018,enabled,13263,251997,5.26,3064,116097410.97,8753.48,37890.8
+Search - Region - Clothes - Shirts,Android,September,Q3,2018,enabled,17945,323010,5.56,4924,350337362.24,19522.84,71148.94
+Search - Region - Clothes - Shirts,Ios,September,Q3,2018,enabled,27936,391104,7.14,2881,216179044.17,7738.37,75036.11
+Search - Region - Brand- Brand 8,Android,September,Q3,2018,paused,7005,56040,12.5,4446,432464046.74,61736.48,97270.37
+Search - Region - Brand- Brand 8,Ios,September,Q3,2018,paused,25009,225081,11.11,2035,127103395.83,5082.31,62458.67
+Search - Region - Brand - Brand 9,Android,September,Q3,2018,removed,14928,149280,10.0,1352,620161471.66,41543.51,458699.31
+Search - Region - Brand - Brand 9,Ios,September,Q3,2018,removed,6938,69380,10.0,4147,397964801.38,57360.16,95964.5
+Search - Region - Shoes - Running Shoes,Android,September,Q3,2018,removed,39976,759544,5.26,4724,532243873.0,13314.09,112668.05
+Search - Region - Shoes - Running Shoes,Ios,September,Q3,2018,paused,23181,347715,6.67,1336,379822112.26,16385.06,284297.99
+Search - Region - Clothes - Dresses,Android,September,Q3,2018,paused,30980,433720,7.14,2350,493564817.62,15931.72,210027.58
+Search - Region - Clothes - Dresses,Ios,September,Q3,2018,enabled,35248,246736,14.29,2642,396306864.83,11243.39,150002.6
+Search - Region - Clothes - Hats,Android,September,Q3,2018,enabled,5728,91648,6.25,2451,107548250.88,18775.88,43879.34
+Search - Region - Clothes - Hats,Ios,September,Q3,2018,removed,42305,719185,5.88,3890,485247055.56,11470.21,124742.17
+Search - Region - Shoes - Flip Flops,Android,September,Q3,2018,paused,4688,89072,5.26,4783,538878090.99,114948.4,112665.29
+Search - Region - Shoes - Flip Flops,Ios,September,Q3,2018,enabled,41649,832980,5.0,4207,163145807.52,3917.16,38779.61
+Display - Region - Clothes - Shirts,Android,September,Q3,2018,enabled,31525,252200,12.5,2913,786789185.82,24957.63,270095.84
+Display - Region - Clothes - Shirts,Ios,September,Q3,2018,paused,35066,350660,10.0,420,235807792.7,6724.68,561447.13
+Display - Region - Shoes - Boots,Android,September,Q3,2018,paused,30797,307970,10.0,3081,329638986.58,10703.61,106990.91
+Display - Region - Shoes - Boots,Ios,September,Q3,2018,enabled,27389,493002,5.56,2871,559173290.42,20415.98,194766.04
+Search - Brand - Shoes - Sneakers,Android,September,Q3,2018,removed,43345,650175,6.67,639,297268066.34,6858.19,465208.24
+Search - Brand - Shoes - Sneakers,Ios,September,Q3,2018,removed,46458,789786,5.88,2427,238996838.72,5144.36,98474.18
+Display - Brand - Clothes - Jackets,Android,September,Q3,2018,removed,41498,373482,11.11,2830,111126490.59,2677.88,39267.31
+Display - Brand - Clothes - Jackets,Ios,September,Q3,2018,removed,11268,180288,6.25,2641,775772380.77,68847.39,293741.91
+Search - Region - Shoes - Dress Shoes,Android,October,Q4,2018,enabled,45393,771681,5.88,1156,496280921.11,10932.98,429308.76
+Search - Region - Shoes - Dress Shoes,Ios,October,Q4,2018,removed,22288,378896,5.88,2790,659888587.86,29607.35,236519.21
+Search - Region - Clothes - Skirts,Android,October,Q4,2018,enabled,48060,336420,14.29,3568,431366364.82,8975.58,120898.64
+Search - Region - Clothes - Skirts,Ios,October,Q4,2018,paused,25763,360682,7.14,1576,763376985.2,29630.75,484376.26
+Search - Region - Clothes - Pants,Android,October,Q4,2018,enabled,33868,372548,9.09,1955,799982465.83,23620.6,409198.19
+Search - Region - Clothes - Pants,Ios,October,Q4,2018,removed,7057,98798,7.14,928,430767284.54,61041.13,464188.88
+Search - Region - Shoes - Heals,Android,October,Q4,2018,removed,36506,219036,16.67,2858,707294579.41,19374.75,247478.86
+Search - Region - Shoes - Heals,Ios,October,Q4,2018,removed,10588,179996,5.88,1363,171685409.07,16215.09,125961.42
+Search - Region - Shoes - Trainers,Android,October,Q4,2018,paused,42942,429420,10.0,3685,82769320.97,1927.47,22461.15
+Search - Region - Shoes - Trainers,Ios,October,Q4,2018,removed,46326,555912,8.33,3738,507946566.59,10964.61,135887.26
+Search - Region - Shoes - Boots,Android,October,Q4,2018,paused,31420,377040,8.33,4474,229376372.93,7300.33,51268.75
+Search - Region - Shoes - Boots,Ios,October,Q4,2018,paused,14715,235440,6.25,4772,788329845.15,53573.21,165199.05
+Search - Region - Clothes - Shirts,Android,October,Q4,2018,enabled,20466,347922,5.88,4219,445594841.35,21772.44,105616.22
+Search - Region - Clothes - Shirts,Ios,October,Q4,2018,paused,15087,135783,11.11,2148,89134852.45,5908.06,41496.67
+Search - Region - Brand- Brand 8,Android,October,Q4,2018,paused,26327,210616,12.5,4326,688374536.06,26147.09,159124.95
+Search - Region - Brand- Brand 8,Ios,October,Q4,2018,removed,7496,74960,10.0,2334,386989415.28,51626.12,165805.23
+Search - Region - Brand - Brand 9,Android,October,Q4,2018,enabled,11656,209808,5.56,851,759809947.26,65186.17,892843.65
+Search - Region - Brand - Brand 9,Ios,October,Q4,2018,paused,31565,505040,6.25,318,361172679.36,11442.19,1135763.14
+Search - Region - Shoes - Running Shoes,Android,October,Q4,2018,enabled,34899,558384,6.25,2031,339624588.53,9731.64,167220.38
+Search - Region - Shoes - Running Shoes,Ios,October,Q4,2018,enabled,26570,318840,8.33,330,289013656.59,10877.44,875798.96
+Search - Region - Clothes - Dresses,Android,October,Q4,2018,paused,48838,732570,6.67,1296,153199690.79,3136.9,118209.64
+Search - Region - Clothes - Dresses,Ios,October,Q4,2018,enabled,32962,296658,11.11,3942,386451105.49,11724.14,98034.27
+Search - Region - Clothes - Hats,Android,October,Q4,2018,enabled,7192,35960,20.0,2196,211741058.35,29441.19,96421.25
+Search - Region - Clothes - Hats,Ios,October,Q4,2018,enabled,37966,683388,5.56,1010,632129474.48,16649.88,625870.77
+Search - Region - Shoes - Flip Flops,Android,October,Q4,2018,removed,21736,173888,12.5,491,228829627.59,10527.68,466048.12
+Search - Region - Shoes - Flip Flops,Ios,October,Q4,2018,paused,42816,813504,5.26,614,133143421.47,3109.67,216845.96
+Display - Region - Clothes - Shirts,Android,October,Q4,2018,removed,41107,205535,20.0,4321,481285593.15,11708.12,111382.92
+Display - Region - Clothes - Shirts,Ios,October,Q4,2018,paused,11409,159726,7.14,3616,51173251.95,4485.34,14151.89
+Display - Region - Shoes - Boots,Android,October,Q4,2018,enabled,17765,319770,5.56,1634,548278476.31,30862.85,335543.74
+Display - Region - Shoes - Boots,Ios,October,Q4,2018,removed,36307,580912,6.25,654,765052758.49,21071.77,1169805.44
+Search - Brand - Shoes - Sneakers,Android,October,Q4,2018,enabled,35248,176240,20.0,3298,704998578.9,20001.09,213765.49
+Search - Brand - Shoes - Sneakers,Ios,October,Q4,2018,enabled,43659,742203,5.88,3158,240237695.8,5502.59,76072.73
+Display - Brand - Clothes - Jackets,Android,October,Q4,2018,removed,25402,177814,14.29,2924,230844443.29,9087.65,78948.17
+Display - Brand - Clothes - Jackets,Ios,October,Q4,2018,paused,43173,345384,12.5,4866,601390238.61,13929.78,123590.27
+Search - Region - Shoes - Dress Shoes,Android,November,Q4,2018,removed,10743,64458,16.67,2986,459510308.91,42773.0,153888.25
+Search - Region - Shoes - Dress Shoes,Ios,November,Q4,2018,enabled,13474,256006,5.26,4020,523801885.82,38875.01,130298.98
+Search - Region - Clothes - Skirts,Android,November,Q4,2018,enabled,6135,116565,5.26,402,270081928.38,44023.13,671845.59
+Search - Region - Clothes - Skirts,Ios,November,Q4,2018,removed,15072,90432,16.67,2685,750028234.96,49763.02,279340.12
+Search - Region - Clothes - Pants,Android,November,Q4,2018,removed,28098,561960,5.0,2175,77465578.65,2756.98,35616.36
+Search - Region - Clothes - Pants,Ios,November,Q4,2018,enabled,14524,203336,7.14,3024,696603897.85,47962.26,230358.43
+Search - Region - Shoes - Heals,Android,November,Q4,2018,paused,44974,674610,6.67,2338,143356256.18,3187.54,61315.76
+Search - Region - Shoes - Heals,Ios,November,Q4,2018,paused,30636,520812,5.88,3702,720978121.22,23533.69,194753.68
+Search - Region - Shoes - Trainers,Android,November,Q4,2018,paused,24219,242190,10.0,4164,569051368.33,23496.07,136659.79
+Search - Region - Shoes - Trainers,Ios,November,Q4,2018,enabled,36031,468403,7.69,776,595310993.26,16522.19,767153.34
+Search - Region - Shoes - Boots,Android,November,Q4,2018,enabled,30220,302200,10.0,4568,270324814.25,8945.23,59177.94
+Search - Region - Shoes - Boots,Ios,November,Q4,2018,removed,7247,108705,6.67,2521,279871892.07,38619.0,111016.22
+Search - Region - Clothes - Shirts,Android,November,Q4,2018,paused,49032,882576,5.56,1465,567323606.33,11570.48,387251.61
+Search - Region - Clothes - Shirts,Ios,November,Q4,2018,paused,31303,187818,16.67,2988,511138611.65,16328.74,171063.79
+Search - Region - Brand- Brand 8,Android,November,Q4,2018,paused,19993,119958,16.67,714,553387916.67,27679.08,775053.1
+Search - Region - Brand- Brand 8,Ios,November,Q4,2018,removed,25809,258090,10.0,355,157084601.27,6086.43,442491.83
+Search - Region - Brand - Brand 9,Android,November,Q4,2018,enabled,46439,882341,5.26,385,144672518.23,3115.32,375772.77
+Search - Region - Brand - Brand 9,Ios,November,Q4,2018,removed,44281,708496,6.25,3066,337140801.27,7613.67,109961.12
+Search - Region - Shoes - Running Shoes,Android,November,Q4,2018,paused,4122,37098,11.11,3785,761617646.95,184768.96,201219.99
+Search - Region - Shoes - Running Shoes,Ios,November,Q4,2018,paused,31094,217658,14.29,4801,153271330.87,4929.29,31924.88
+Search - Region - Clothes - Dresses,Android,November,Q4,2018,enabled,28085,421275,6.67,2383,237208739.82,8446.1,99542.06
+Search - Region - Clothes - Dresses,Ios,November,Q4,2018,removed,3698,36980,10.0,4188,438308955.66,118525.95,104658.3
+Search - Region - Clothes - Hats,Android,November,Q4,2018,enabled,9717,126321,7.69,2232,578028358.41,59486.3,258973.28
+Search - Region - Clothes - Hats,Ios,November,Q4,2018,enabled,42099,589386,7.14,4123,200133755.74,4753.88,48540.81
+Search - Region - Shoes - Flip Flops,Android,November,Q4,2018,paused,6853,130207,5.26,1514,724009273.09,105648.51,478209.56
+Search - Region - Shoes - Flip Flops,Ios,November,Q4,2018,removed,7753,116295,6.67,2946,582155365.11,75087.76,197608.75
+Display - Region - Clothes - Shirts,Android,November,Q4,2018,removed,37531,525434,7.14,2557,688521538.06,18345.41,269269.28
+Display - Region - Clothes - Shirts,Ios,November,Q4,2018,enabled,48501,485010,10.0,3061,431566808.88,8898.1,140988.83
+Display - Region - Shoes - Boots,Android,November,Q4,2018,enabled,15171,136539,11.11,2039,642779795.61,42368.98,315242.67
+Display - Region - Shoes - Boots,Ios,November,Q4,2018,removed,25651,410416,6.25,3928,652746294.72,25447.21,166177.77
+Search - Brand - Shoes - Sneakers,Android,November,Q4,2018,removed,10504,73528,14.29,638,281968038.15,26843.87,441956.17
+Search - Brand - Shoes - Sneakers,Ios,November,Q4,2018,paused,49111,982220,5.0,4406,358096340.5,7291.57,81274.7
+Display - Brand - Clothes - Jackets,Android,November,Q4,2018,removed,39676,277732,14.29,1126,779284798.64,19641.21,692082.41
+Display - Brand - Clothes - Jackets,Ios,November,Q4,2018,paused,6860,130340,5.26,3916,560081742.99,81644.57,143023.94
+Search - Region - Shoes - Dress Shoes,Android,December,Q4,2018,enabled,10410,104100,10.0,1157,374463714.86,35971.54,323650.57
+Search - Region - Shoes - Dress Shoes,Ios,December,Q4,2018,paused,10137,91233,11.11,2591,173492809.92,17114.81,66959.79
+Search - Region - Clothes - Skirts,Android,December,Q4,2018,removed,48486,581832,8.33,2934,760612352.61,15687.26,259240.75
+Search - Region - Clothes - Skirts,Ios,December,Q4,2018,removed,20615,144305,14.29,2152,197226439.61,9567.13,91647.97
+Search - Region - Clothes - Pants,Android,December,Q4,2018,enabled,19986,179874,11.11,2580,510821208.73,25558.95,197992.72
+Search - Region - Clothes - Pants,Ios,December,Q4,2018,enabled,34936,349360,10.0,4948,756205240.9,21645.44,152830.49
+Search - Region - Shoes - Heals,Android,December,Q4,2018,enabled,13219,198285,6.67,4717,80895727.64,6119.66,17149.83
+Search - Region - Shoes - Heals,Ios,December,Q4,2018,enabled,7323,43938,16.67,4824,248491930.87,33933.08,51511.59
+Search - Region - Shoes - Trainers,Android,December,Q4,2018,removed,39495,710910,5.56,348,423528545.1,10723.6,1217036.05
+Search - Region - Shoes - Trainers,Ios,December,Q4,2018,removed,37754,528556,7.14,2574,412208613.63,10918.28,160143.21
+Search - Region - Shoes - Boots,Android,December,Q4,2018,enabled,28613,400582,7.14,3815,104729769.13,3660.22,27452.1
+Search - Region - Shoes - Boots,Ios,December,Q4,2018,enabled,12359,234821,5.26,3504,413188347.58,33432.18,117919.05
+Search - Region - Clothes - Shirts,Android,December,Q4,2018,paused,24294,218646,11.11,2660,696113807.62,28653.73,261696.92
+Search - Region - Clothes - Shirts,Ios,December,Q4,2018,removed,24634,418778,5.88,1171,620498746.1,25188.71,529887.91
+Search - Region - Brand- Brand 8,Android,December,Q4,2018,enabled,38808,310464,12.5,2714,231303395.7,5960.2,85226.01
+Search - Region - Brand- Brand 8,Ios,December,Q4,2018,enabled,19529,371051,5.26,2130,155658226.26,7970.62,73078.98
+Search - Region - Brand - Brand 9,Android,December,Q4,2018,enabled,21019,357323,5.88,3525,236202710.29,11237.58,67007.86
+Search - Region - Brand - Brand 9,Ios,December,Q4,2018,paused,23458,351870,6.67,1655,622341031.35,26530.01,376036.88
+Search - Region - Shoes - Running Shoes,Android,December,Q4,2018,paused,35733,678927,5.26,4185,709306747.7,19850.19,169487.87
+Search - Region - Shoes - Running Shoes,Ios,December,Q4,2018,enabled,3518,24626,14.29,3321,429083347.27,121967.98,129203.06
+Search - Region - Clothes - Dresses,Android,December,Q4,2018,paused,16099,257584,6.25,498,87905303.47,5460.3,176516.67
+Search - Region - Clothes - Dresses,Ios,December,Q4,2018,enabled,41158,823160,5.0,2440,452518061.97,10994.66,185458.22
+Search - Region - Clothes - Hats,Android,December,Q4,2018,paused,30241,272169,11.11,2266,595631047.52,19696.14,262855.71
+Search - Region - Clothes - Hats,Ios,December,Q4,2018,removed,25982,155892,16.67,3381,88368265.54,3401.13,26136.72
+Search - Region - Shoes - Flip Flops,Android,December,Q4,2018,paused,14756,236096,6.25,4632,266451272.78,18057.15,57524.02
+Search - Region - Shoes - Flip Flops,Ios,December,Q4,2018,removed,35046,665874,5.26,4604,259790508.22,7412.84,56427.13
+Display - Region - Clothes - Shirts,Android,December,Q4,2018,paused,46590,372720,12.5,1154,781312111.56,16769.95,677046.89
+Display - Region - Clothes - Shirts,Ios,December,Q4,2018,enabled,26457,396855,6.67,4669,754211425.22,28507.07,161535.97
+Display - Region - Shoes - Boots,Android,December,Q4,2018,enabled,15045,255765,5.88,4196,80191179.62,5330.09,19111.34
+Display - Region - Shoes - Boots,Ios,December,Q4,2018,enabled,10980,164700,6.67,3980,439499532.75,40027.28,110427.02
+Search - Brand - Shoes - Sneakers,Android,December,Q4,2018,paused,41731,375579,11.11,2786,748526551.65,17936.94,268674.28
+Search - Brand - Shoes - Sneakers,Ios,December,Q4,2018,removed,12649,215033,5.88,2551,495293491.72,39156.73,194156.6
+Display - Brand - Clothes - Jackets,Android,December,Q4,2018,enabled,35404,708080,5.0,4711,274842923.55,7763.05,58340.68
+Display - Brand - Clothes - Jackets,Ios,December,Q4,2018,removed,26140,392100,6.67,997,784923523.38,30027.68,787285.38
+Search - Region - Shoes - Dress Shoes,Android,January,Q1,2019,removed,22163,110815,20.0,4989,405942660.56,18316.23,81367.54
+Search - Region - Shoes - Dress Shoes,Ios,January,Q1,2019,enabled,39910,478920,8.33,520,487642457.79,12218.55,937773.96
+Search - Region - Clothes - Skirts,Android,January,Q1,2019,enabled,36356,618052,5.88,1310,666245968.35,18325.61,508584.71
+Search - Region - Clothes - Skirts,Ios,January,Q1,2019,paused,4069,32552,12.5,1662,64203025.63,15778.58,38629.98
+Search - Region - Clothes - Pants,Android,January,Q1,2019,paused,29445,265005,11.11,3482,567875195.69,19285.96,163088.8
+Search - Region - Clothes - Pants,Ios,January,Q1,2019,removed,34887,697740,5.0,610,579331424.11,16605.94,949723.65
+Search - Region - Shoes - Heals,Android,January,Q1,2019,paused,15588,233820,6.67,4018,444107863.55,28490.37,110529.58
+Search - Region - Shoes - Heals,Ios,January,Q1,2019,paused,13349,253631,5.26,4467,306745263.26,22978.89,68669.19
+Search - Region - Shoes - Trainers,Android,January,Q1,2019,enabled,46293,601809,7.69,4066,194198126.85,4194.98,47761.47
+Search - Region - Shoes - Trainers,Ios,January,Q1,2019,paused,20284,283976,7.14,1942,756114159.75,37276.38,389348.18
+Search - Region - Shoes - Boots,Android,January,Q1,2019,paused,20940,230340,9.09,4105,287780558.76,13743.1,70104.89
+Search - Region - Shoes - Boots,Ios,January,Q1,2019,removed,38732,503516,7.69,2457,141405579.3,3650.87,57552.13
+Search - Region - Clothes - Shirts,Android,January,Q1,2019,enabled,37598,639166,5.88,3332,663783095.1,17654.74,199214.61
+Search - Region - Clothes - Shirts,Ios,January,Q1,2019,enabled,21035,126210,16.67,2456,766485288.26,36438.57,312086.84
+Search - Region - Brand- Brand 8,Android,January,Q1,2019,enabled,24699,469281,5.26,2200,610503874.79,24717.76,277501.76
+Search - Region - Brand- Brand 8,Ios,January,Q1,2019,enabled,15242,198146,7.69,4704,572128475.49,37536.31,121625.95
+Search - Region - Brand - Brand 9,Android,January,Q1,2019,removed,9158,109896,8.33,2086,88074072.47,9617.17,42221.51
+Search - Region - Brand - Brand 9,Ios,January,Q1,2019,paused,16789,201468,8.33,530,125148469.28,7454.19,236129.19
+Search - Region - Shoes - Running Shoes,Android,January,Q1,2019,enabled,49012,980240,5.0,923,560893989.94,11444.01,607685.8
+Search - Region - Shoes - Running Shoes,Ios,January,Q1,2019,paused,2339,23390,10.0,3433,539669598.28,230726.63,157200.58
+Search - Region - Clothes - Dresses,Android,January,Q1,2019,removed,33290,366190,9.09,2453,290875776.59,8737.63,118579.61
+Search - Region - Clothes - Dresses,Ios,January,Q1,2019,removed,5877,41139,14.29,4803,224165149.42,38142.79,46671.9
+Search - Region - Clothes - Hats,Android,January,Q1,2019,enabled,49390,296340,16.67,1534,363413736.68,7358.04,236905.96
+Search - Region - Clothes - Hats,Ios,January,Q1,2019,removed,4381,74477,5.88,4158,189733723.94,43308.31,45631.01
+Search - Region - Shoes - Flip Flops,Android,January,Q1,2019,removed,20970,125820,16.67,175,273794158.0,13056.47,1564538.05
+Search - Region - Shoes - Flip Flops,Ios,January,Q1,2019,removed,9032,135480,6.67,2431,390761808.62,43264.15,160741.18
+Display - Region - Clothes - Shirts,Android,January,Q1,2019,paused,37605,752100,5.0,1199,688294803.93,18303.28,574057.38
+Display - Region - Clothes - Shirts,Ios,January,Q1,2019,removed,19880,218680,9.09,1022,298013072.62,14990.6,291597.92
+Display - Region - Shoes - Boots,Android,January,Q1,2019,paused,32075,416975,7.69,1625,60563146.71,1888.17,37269.63
+Display - Region - Shoes - Boots,Ios,January,Q1,2019,removed,21334,234674,9.09,1537,508215874.75,23821.87,330654.44
+Search - Brand - Shoes - Sneakers,Android,January,Q1,2019,paused,28574,514332,5.56,4321,295944994.06,10357.14,68489.93
+Search - Brand - Shoes - Sneakers,Ios,January,Q1,2019,paused,45860,366880,12.5,1613,786263894.33,17144.87,487454.37
+Display - Brand - Clothes - Jackets,Android,January,Q1,2019,enabled,23207,278484,8.33,155,245588957.8,10582.54,1584444.89
+Display - Brand - Clothes - Jackets,Ios,January,Q1,2019,removed,31277,406601,7.69,2800,276459379.77,8839.06,98735.49
+Search - Region - Shoes - Dress Shoes,Android,February,Q1,2019,removed,39544,197720,20.0,2242,540262525.3,13662.31,240973.47
+Search - Region - Shoes - Dress Shoes,Ios,February,Q1,2019,enabled,17486,104916,16.67,1068,399046243.21,22820.9,373638.8
+Search - Region - Clothes - Skirts,Android,February,Q1,2019,paused,28569,399966,7.14,1061,529033493.9,18517.75,498617.81
+Search - Region - Clothes - Skirts,Ios,February,Q1,2019,paused,26087,313044,8.33,1895,768020402.64,29440.73,405287.81
+Search - Region - Clothes - Pants,Android,February,Q1,2019,removed,12039,228741,5.26,3160,361884211.57,30059.32,114520.32
+Search - Region - Clothes - Pants,Ios,February,Q1,2019,removed,32856,361416,9.09,2127,560256439.94,17051.88,263402.18
+Search - Region - Shoes - Heals,Android,February,Q1,2019,enabled,7365,139935,5.26,4426,577824593.87,78455.48,130552.33
+Search - Region - Shoes - Heals,Ios,February,Q1,2019,removed,38973,311784,12.5,605,671580540.47,17231.94,1110050.48
+Search - Region - Shoes - Trainers,Android,February,Q1,2019,removed,15248,137232,11.11,1447,296088228.31,19418.17,204622.13
+Search - Region - Shoes - Trainers,Ios,February,Q1,2019,paused,30956,247648,12.5,1782,587688474.64,18984.64,329791.51
+Search - Region - Shoes - Boots,Android,February,Q1,2019,removed,7959,151221,5.26,555,390074225.13,49010.46,702836.44
+Search - Region - Shoes - Boots,Ios,February,Q1,2019,paused,29225,555275,5.26,4719,93302585.7,3192.56,19771.69
+Search - Region - Clothes - Shirts,Android,February,Q1,2019,enabled,46090,645260,7.14,278,346961532.46,7527.91,1248063.07
+Search - Region - Clothes - Shirts,Ios,February,Q1,2019,removed,16280,113960,14.29,471,367773038.58,22590.48,780834.48
+Search - Region - Brand- Brand 8,Android,February,Q1,2019,paused,6178,37068,16.67,665,789602936.06,127808.83,1187372.84
+Search - Region - Brand- Brand 8,Ios,February,Q1,2019,enabled,4079,57106,7.14,3449,184985995.12,45350.82,53634.68
+Search - Region - Brand - Brand 9,Android,February,Q1,2019,paused,44042,792756,5.56,3167,794642448.94,18042.83,250913.31
+Search - Region - Brand - Brand 9,Ios,February,Q1,2019,removed,31395,533715,5.88,3177,110187494.47,3509.71,34682.88
+Search - Region - Shoes - Running Shoes,Android,February,Q1,2019,removed,37343,336087,11.11,2948,138974875.46,3721.58,47142.09
+Search - Region - Shoes - Running Shoes,Ios,February,Q1,2019,enabled,27759,249831,11.11,1924,676116208.75,24356.65,351411.75
+Search - Region - Clothes - Dresses,Android,February,Q1,2019,paused,21553,409507,5.26,4560,368096022.3,17078.64,80722.81
+Search - Region - Clothes - Dresses,Ios,February,Q1,2019,paused,17051,204612,8.33,3873,309619801.24,18158.45,79943.15
+Search - Region - Clothes - Hats,Android,February,Q1,2019,paused,14352,114816,12.5,363,657108637.65,45785.16,1810216.63
+Search - Region - Clothes - Hats,Ios,February,Q1,2019,enabled,42299,211495,20.0,2071,204561216.39,4836.08,98774.13
+Search - Region - Shoes - Flip Flops,Android,February,Q1,2019,removed,40924,245544,16.67,3757,498338672.55,12177.17,132642.71
+Search - Region - Shoes - Flip Flops,Ios,February,Q1,2019,enabled,5190,62280,8.33,462,351699013.11,67764.74,761253.28
+Display - Region - Clothes - Shirts,Android,February,Q1,2019,paused,37373,411103,9.09,562,155101681.34,4150.1,275981.64
+Display - Region - Clothes - Shirts,Ios,February,Q1,2019,removed,17346,260190,6.67,4830,498438255.71,28735.05,103196.33
+Display - Region - Shoes - Boots,Android,February,Q1,2019,removed,23015,276180,8.33,2572,707193741.63,30727.51,274958.69
+Display - Region - Shoes - Boots,Ios,February,Q1,2019,enabled,36160,433920,8.33,3487,275375715.32,7615.48,78972.1
+Search - Brand - Shoes - Sneakers,Android,February,Q1,2019,enabled,38485,384850,10.0,3599,466887999.49,12131.69,129727.15
+Search - Brand - Shoes - Sneakers,Ios,February,Q1,2019,paused,24571,417707,5.88,4396,289050842.99,11763.9,65753.15
+Display - Brand - Clothes - Jackets,Android,February,Q1,2019,removed,28755,258795,11.11,2556,332345141.38,11557.82,130025.49
+Display - Brand - Clothes - Jackets,Ios,February,Q1,2019,removed,33032,396384,8.33,1946,275552314.1,8341.98,141599.34
+Search - Region - Shoes - Dress Shoes,Android,March,Q1,2019,paused,11460,217740,5.26,572,471789462.19,41168.36,824806.75
+Search - Region - Shoes - Dress Shoes,Ios,March,Q1,2019,enabled,38522,346698,11.11,3281,232143887.07,6026.27,70754.0
+Search - Region - Clothes - Skirts,Android,March,Q1,2019,enabled,23644,165508,14.29,3784,685350039.44,28986.21,181117.88
+Search - Region - Clothes - Skirts,Ios,March,Q1,2019,removed,37103,408133,9.09,522,251346190.89,6774.28,481506.11
+Search - Region - Clothes - Pants,Android,March,Q1,2019,removed,41647,249882,16.67,696,191122470.45,4589.11,274601.25
+Search - Region - Clothes - Pants,Ios,March,Q1,2019,paused,49468,544148,9.09,4027,206666816.41,4177.79,51320.29
+Search - Region - Shoes - Heals,Android,March,Q1,2019,removed,21869,109345,20.0,1835,752869822.4,34426.35,410283.28
+Search - Region - Shoes - Heals,Ios,March,Q1,2019,removed,9688,193760,5.0,2087,571719714.28,59013.18,273943.32
+Search - Region - Shoes - Trainers,Android,March,Q1,2019,paused,15402,261834,5.88,2060,464059469.41,30129.82,225271.59
+Search - Region - Shoes - Trainers,Ios,March,Q1,2019,paused,26947,511993,5.26,4471,536541005.0,19910.97,120004.7
+Search - Region - Shoes - Boots,Android,March,Q1,2019,paused,19141,306256,6.25,4300,712108964.27,37203.33,165606.74
+Search - Region - Shoes - Boots,Ios,March,Q1,2019,paused,8462,169240,5.0,2723,735747874.17,86947.28,270197.53
+Search - Region - Clothes - Shirts,Android,March,Q1,2019,enabled,22507,405126,5.56,474,471893545.6,20966.52,995556.0
+Search - Region - Clothes - Shirts,Ios,March,Q1,2019,removed,11563,57815,20.0,2236,464983672.66,40213.07,207953.34
+Search - Region - Brand- Brand 8,Android,March,Q1,2019,paused,39954,719172,5.56,2518,164308557.64,4112.44,65253.6
+Search - Region - Brand- Brand 8,Ios,March,Q1,2019,paused,17074,290258,5.88,4767,675022036.47,39535.08,141603.11
+Search - Region - Brand - Brand 9,Android,March,Q1,2019,paused,38086,571290,6.67,2208,622520469.25,16345.13,281938.62
+Search - Region - Brand - Brand 9,Ios,March,Q1,2019,paused,49419,988380,5.0,3875,176175234.46,3564.93,45464.58
+Search - Region - Shoes - Running Shoes,Android,March,Q1,2019,removed,13092,117828,11.11,4577,416237240.94,31793.25,90941.06
+Search - Region - Shoes - Running Shoes,Ios,March,Q1,2019,enabled,44061,264366,16.67,4392,75367817.87,1710.53,17160.25
+Search - Region - Clothes - Dresses,Android,March,Q1,2019,removed,45792,274752,16.67,152,359294166.81,7846.22,2363777.41
+Search - Region - Clothes - Dresses,Ios,March,Q1,2019,removed,17167,120169,14.29,1337,56856096.27,3311.94,42525.13
+Search - Region - Clothes - Hats,Android,March,Q1,2019,removed,31885,510160,6.25,595,513376426.91,16100.88,862817.52
+Search - Region - Clothes - Hats,Ios,March,Q1,2019,removed,42404,848080,5.0,4096,61798825.15,1457.38,15087.6
+Search - Region - Shoes - Flip Flops,Android,March,Q1,2019,removed,38152,686736,5.56,197,62544610.7,1639.35,317485.33
+Search - Region - Shoes - Flip Flops,Ios,March,Q1,2019,removed,20005,280070,7.14,240,426662024.18,21327.77,1777758.43
+Display - Region - Clothes - Shirts,Android,March,Q1,2019,enabled,46173,831114,5.56,1568,130262321.52,2821.18,83075.46
+Display - Region - Clothes - Shirts,Ios,March,Q1,2019,removed,36366,327294,11.11,2074,193949042.74,5333.25,93514.49
+Display - Region - Shoes - Boots,Android,March,Q1,2019,enabled,18542,296672,6.25,2289,646202249.06,34850.73,282307.67
+Display - Region - Shoes - Boots,Ios,March,Q1,2019,removed,26448,449616,5.88,3860,473751636.84,17912.57,122733.58
+Search - Brand - Shoes - Sneakers,Android,March,Q1,2019,removed,16801,235214,7.14,760,540301789.67,32158.91,710923.41
+Search - Brand - Shoes - Sneakers,Ios,March,Q1,2019,removed,4076,28532,14.29,3420,334448016.68,82053.0,97791.82
+Display - Brand - Clothes - Jackets,Android,March,Q1,2019,enabled,33195,199170,16.67,177,577133862.51,17386.17,3260643.29
+Display - Brand - Clothes - Jackets,Ios,March,Q1,2019,enabled,34758,625644,5.56,2813,474392470.96,13648.44,168642.9
+Search - Region - Shoes - Dress Shoes,Android,April,Q2,2019,removed,36613,219678,16.67,1982,208562791.91,5696.41,105228.45
+Search - Region - Shoes - Dress Shoes,Ios,April,Q2,2019,enabled,39144,782880,5.0,2320,84921478.06,2169.46,36604.09
+Search - Region - Clothes - Skirts,Android,April,Q2,2019,enabled,46854,609102,7.69,4548,472632398.04,10087.34,103920.93
+Search - Region - Clothes - Skirts,Ios,April,Q2,2019,removed,13754,206310,6.67,228,771101892.41,56063.83,3382025.84
+Search - Region - Clothes - Pants,Android,April,Q2,2019,removed,11449,194633,5.88,730,274457667.19,23972.2,375969.41
+Search - Region - Clothes - Pants,Ios,April,Q2,2019,removed,17759,301903,5.88,4528,298797379.72,16825.12,65988.82
+Search - Region - Shoes - Heals,Android,April,Q2,2019,paused,11171,78197,14.29,4202,609092420.94,54524.43,144952.98
+Search - Region - Shoes - Heals,Ios,April,Q2,2019,enabled,5519,44152,12.5,3680,224108003.3,40606.63,60898.91
+Search - Region - Shoes - Trainers,Android,April,Q2,2019,paused,24321,413457,5.88,2773,72219244.21,2969.42,26043.72
+Search - Region - Shoes - Trainers,Ios,April,Q2,2019,paused,31527,630540,5.0,1968,316858398.28,10050.38,161005.28
+Search - Region - Shoes - Boots,Android,April,Q2,2019,enabled,30301,303010,10.0,4899,545503930.64,18002.84,111350.06
+Search - Region - Shoes - Boots,Ios,April,Q2,2019,enabled,42541,595574,7.14,2118,584831399.51,13747.48,276124.36
+Search - Region - Clothes - Shirts,Android,April,Q2,2019,removed,19561,176049,11.11,3212,583757866.08,29842.95,181742.8
+Search - Region - Clothes - Shirts,Ios,April,Q2,2019,enabled,12110,205870,5.88,2694,320525171.09,26467.81,118977.42
+Search - Region - Brand- Brand 8,Android,April,Q2,2019,paused,2340,32760,7.14,3743,319938123.01,136725.69,85476.39
+Search - Region - Brand- Brand 8,Ios,April,Q2,2019,paused,8699,78291,11.11,815,190543837.65,21904.11,233796.12
+Search - Region - Brand - Brand 9,Android,April,Q2,2019,paused,38502,693036,5.56,946,69696428.01,1810.2,73674.87
+Search - Region - Brand - Brand 9,Ios,April,Q2,2019,paused,38321,268247,14.29,4990,498532848.35,13009.39,99906.38
+Search - Region - Shoes - Running Shoes,Android,April,Q2,2019,enabled,27246,136230,20.0,2490,360357552.33,13226.07,144721.91
+Search - Region - Shoes - Running Shoes,Ios,April,Q2,2019,removed,49503,594036,8.33,4785,440828398.07,8905.08,92127.15
+Search - Region - Clothes - Dresses,Android,April,Q2,2019,paused,26951,269510,10.0,1237,251689222.65,9338.77,203467.44
+Search - Region - Clothes - Dresses,Ios,April,Q2,2019,paused,34317,308853,11.11,618,175405550.57,5111.33,283827.75
+Search - Region - Clothes - Hats,Android,April,Q2,2019,paused,29597,414358,7.14,4066,636999968.12,21522.45,156665.02
+Search - Region - Clothes - Hats,Ios,April,Q2,2019,enabled,18495,221940,8.33,4161,495354798.53,26783.17,119047.06
+Search - Region - Shoes - Flip Flops,Android,April,Q2,2019,paused,32006,256048,12.5,1209,278493496.81,8701.29,230350.29
+Search - Region - Shoes - Flip Flops,Ios,April,Q2,2019,paused,23772,404124,5.88,2799,380167191.11,15992.23,135822.5
+Display - Region - Clothes - Shirts,Android,April,Q2,2019,removed,44666,401994,11.11,2561,290498866.53,6503.8,113431.81
+Display - Region - Clothes - Shirts,Ios,April,Q2,2019,paused,15163,303260,5.0,2673,183227953.49,12083.89,68547.68
+Display - Region - Shoes - Boots,Android,April,Q2,2019,enabled,22915,320810,7.14,4122,775822314.11,33856.53,188215.02
+Display - Region - Shoes - Boots,Ios,April,Q2,2019,paused,23357,397069,5.88,2396,662370886.57,28358.56,276448.62
+Search - Brand - Shoes - Sneakers,Android,April,Q2,2019,removed,25921,207368,12.5,4719,199850036.53,7709.97,42350.08
+Search - Brand - Shoes - Sneakers,Ios,April,Q2,2019,enabled,13791,68955,20.0,3881,757231186.56,54907.63,195112.39
+Display - Brand - Clothes - Jackets,Android,April,Q2,2019,paused,30734,430276,7.14,666,664224176.0,21612.03,997333.6
+Display - Brand - Clothes - Jackets,Ios,April,Q2,2019,enabled,46104,922080,5.0,1240,525002029.74,11387.34,423388.73
+Search - Region - Shoes - Dress Shoes,Android,May,Q2,2019,enabled,18559,167031,11.11,3566,641807572.42,34582.01,179979.69
+Search - Region - Shoes - Dress Shoes,Ios,May,Q2,2019,removed,31430,628600,5.0,4869,350603823.0,11155.07,72007.36
+Search - Region - Clothes - Skirts,Android,May,Q2,2019,paused,47331,851958,5.56,4553,77573873.05,1638.97,17037.97
+Search - Region - Clothes - Skirts,Ios,May,Q2,2019,removed,47982,335874,14.29,995,626715535.94,13061.47,629864.86
+Search - Region - Clothes - Pants,Android,May,Q2,2019,enabled,45561,728976,6.25,1462,535249885.99,11747.98,366107.99
+Search - Region - Clothes - Pants,Ios,May,Q2,2019,paused,38911,661487,5.88,2816,774287583.29,19898.94,274960.08
+Search - Region - Shoes - Heals,Android,May,Q2,2019,removed,8943,44715,20.0,907,244053777.8,27289.92,269078.04
+Search - Region - Shoes - Heals,Ios,May,Q2,2019,paused,35999,431988,8.33,3751,330589675.85,9183.3,88133.74
+Search - Region - Shoes - Trainers,Android,May,Q2,2019,paused,46535,418815,11.11,2925,798277044.06,17154.34,272915.23
+Search - Region - Shoes - Trainers,Ios,May,Q2,2019,enabled,8851,123914,7.14,3507,740410658.5,83652.77,211123.66
+Search - Region - Shoes - Boots,Android,May,Q2,2019,paused,9606,86454,11.11,2953,283917757.92,29556.29,96145.53
+Search - Region - Shoes - Boots,Ios,May,Q2,2019,paused,15557,311140,5.0,2953,407121898.41,26169.69,137867.22
+Search - Region - Clothes - Shirts,Android,May,Q2,2019,enabled,49316,937004,5.26,2712,100380755.03,2035.46,37013.55
+Search - Region - Clothes - Shirts,Ios,May,Q2,2019,removed,48581,388648,12.5,285,686885006.04,14138.96,2410122.83
+Search - Region - Brand- Brand 8,Android,May,Q2,2019,removed,9167,91670,10.0,2098,436995426.42,47670.49,208291.43
+Search - Region - Brand- Brand 8,Ios,May,Q2,2019,paused,12494,187410,6.67,4686,369777037.72,29596.37,78911.02
+Search - Region - Brand - Brand 9,Android,May,Q2,2019,removed,17194,292298,5.88,1611,189790193.96,11038.16,117808.93
+Search - Region - Brand - Brand 9,Ios,May,Q2,2019,enabled,30320,515440,5.88,339,603041277.16,19889.22,1778882.82
+Search - Region - Shoes - Running Shoes,Android,May,Q2,2019,enabled,31463,566334,5.56,3285,53337532.49,1695.25,16236.69
+Search - Region - Shoes - Running Shoes,Ios,May,Q2,2019,removed,15486,201318,7.69,612,483010928.9,31190.17,789233.54
+Search - Region - Clothes - Dresses,Android,May,Q2,2019,enabled,14252,228032,6.25,2770,197805706.36,13879.15,71410.0
+Search - Region - Clothes - Dresses,Ios,May,Q2,2019,paused,19193,383860,5.0,4423,774437299.96,40349.99,175093.22
+Search - Region - Clothes - Hats,Android,May,Q2,2019,paused,41123,699091,5.88,3315,490253535.92,11921.64,147889.45
+Search - Region - Clothes - Hats,Ios,May,Q2,2019,removed,25067,476273,5.26,1513,660303690.7,26341.55,436420.15
+Search - Region - Shoes - Flip Flops,Android,May,Q2,2019,enabled,21493,150451,14.29,1197,284889308.65,13254.98,238002.76
+Search - Region - Shoes - Flip Flops,Ios,May,Q2,2019,enabled,22013,176104,12.5,1599,329979553.22,14990.21,206366.2
+Display - Region - Clothes - Shirts,Android,May,Q2,2019,removed,35477,603109,5.88,3526,497319363.08,14018.08,141043.49
+Display - Region - Clothes - Shirts,Ios,May,Q2,2019,removed,27146,488628,5.56,1621,415002661.77,15287.8,256016.45
+Display - Region - Shoes - Boots,Android,May,Q2,2019,paused,47444,474440,10.0,4645,175149142.87,3691.7,37707.03
+Display - Region - Shoes - Boots,Ios,May,Q2,2019,removed,11194,111940,10.0,2677,681488910.6,60879.84,254571.88
+Search - Brand - Shoes - Sneakers,Android,May,Q2,2019,enabled,5513,88208,6.25,178,413456689.58,74996.68,2322790.39
+Search - Brand - Shoes - Sneakers,Ios,May,Q2,2019,paused,27162,543240,5.0,3451,563522502.92,20746.72,163292.52
+Display - Brand - Clothes - Jackets,Android,May,Q2,2019,removed,48539,922241,5.26,4103,175440115.57,3614.42,42758.99
+Display - Brand - Clothes - Jackets,Ios,May,Q2,2019,enabled,4022,48264,8.33,2492,74521315.14,18528.42,29904.22
+Search - Region - Shoes - Dress Shoes,Android,June,Q2,2019,removed,37232,521248,7.14,1477,635555148.07,17070.13,430301.39
+Search - Region - Shoes - Dress Shoes,Ios,June,Q2,2019,removed,34460,275680,12.5,4791,135654988.52,3936.59,28314.55
+Search - Region - Clothes - Skirts,Android,June,Q2,2019,paused,26042,156252,16.67,3715,459764956.04,17654.75,123759.07
+Search - Region - Clothes - Skirts,Ios,June,Q2,2019,enabled,8711,104532,8.33,2538,706107384.71,81059.28,278214.1
+Search - Region - Clothes - Pants,Android,June,Q2,2019,enabled,31473,409149,7.69,2955,696649719.12,22134.84,235752.87
+Search - Region - Clothes - Pants,Ios,June,Q2,2019,removed,30774,246192,12.5,2041,207408625.69,6739.74,101621.08
+Search - Region - Shoes - Heals,Android,June,Q2,2019,enabled,40530,648480,6.25,3607,174486213.27,4305.11,48374.33
+Search - Region - Shoes - Heals,Ios,June,Q2,2019,removed,15541,170951,9.09,586,477555758.6,30728.77,814941.57
+Search - Region - Shoes - Trainers,Android,June,Q2,2019,paused,20421,204210,10.0,2751,784250117.3,38404.1,285078.2
+Search - Region - Shoes - Trainers,Ios,June,Q2,2019,removed,20961,272493,7.69,4314,789116226.7,37646.88,182919.85
+Search - Region - Shoes - Boots,Android,June,Q2,2019,paused,8240,74160,11.11,3471,739076533.87,89693.75,212928.99
+Search - Region - Shoes - Boots,Ios,June,Q2,2019,removed,44984,404856,11.11,1187,237257931.45,5274.27,199880.31
+Search - Region - Clothes - Shirts,Android,June,Q2,2019,removed,23108,277296,8.33,3317,417094044.44,18049.77,125744.36
+Search - Region - Clothes - Shirts,Ios,June,Q2,2019,enabled,43445,564785,7.69,3493,331379245.88,7627.56,94869.52
+Search - Region - Brand- Brand 8,Android,June,Q2,2019,paused,43525,304675,14.29,3400,436710104.07,10033.55,128444.15
+Search - Region - Brand- Brand 8,Ios,June,Q2,2019,paused,47528,760448,6.25,3824,762690559.15,16047.18,199448.37
+Search - Region - Brand - Brand 9,Android,June,Q2,2019,paused,40139,200695,20.0,863,598198953.12,14903.19,693162.17
+Search - Region - Brand - Brand 9,Ios,June,Q2,2019,paused,43604,697664,6.25,618,646758444.99,14832.55,1046534.7
+Search - Region - Shoes - Running Shoes,Android,June,Q2,2019,paused,16275,292950,5.56,1835,421036210.67,25870.12,229447.53
+Search - Region - Shoes - Running Shoes,Ios,June,Q2,2019,removed,20585,308775,6.67,4583,483450230.2,23485.56,105487.72
+Search - Region - Clothes - Dresses,Android,June,Q2,2019,removed,33807,507105,6.67,496,84457194.24,2498.22,170276.6
+Search - Region - Clothes - Dresses,Ios,June,Q2,2019,enabled,32119,160595,20.0,1117,747074656.51,23259.59,668822.43
+Search - Region - Clothes - Hats,Android,June,Q2,2019,paused,30920,587480,5.26,105,793878679.12,25675.25,7560749.32
+Search - Region - Clothes - Hats,Ios,June,Q2,2019,paused,15259,137331,11.11,2572,169233097.18,11090.71,65798.25
+Search - Region - Shoes - Flip Flops,Android,June,Q2,2019,removed,8117,129872,6.25,2151,111815398.03,13775.46,51982.98
+Search - Region - Shoes - Flip Flops,Ios,June,Q2,2019,paused,44527,445270,10.0,524,347256175.2,7798.78,662702.62
+Display - Region - Clothes - Shirts,Android,June,Q2,2019,removed,49578,594936,8.33,3616,541613921.29,10924.48,149782.61
+Display - Region - Clothes - Shirts,Ios,June,Q2,2019,enabled,8237,41185,20.0,1848,407605031.2,49484.65,220565.49
+Display - Region - Shoes - Boots,Android,June,Q2,2019,enabled,40907,490884,8.33,4355,559987043.84,13689.27,128584.86
+Display - Region - Shoes - Boots,Ios,June,Q2,2019,paused,2528,37920,6.67,1087,791116182.1,312941.53,727797.78
+Search - Brand - Shoes - Sneakers,Android,June,Q2,2019,paused,47484,427356,11.11,4013,103121229.05,2171.7,25696.79
+Search - Brand - Shoes - Sneakers,Ios,June,Q2,2019,paused,7854,62832,12.5,945,285013608.08,36288.97,301601.7
+Display - Brand - Clothes - Jackets,Android,June,Q2,2019,removed,10986,186762,5.88,1190,531182111.39,48350.82,446371.52
+Display - Brand - Clothes - Jackets,Ios,June,Q2,2019,removed,11362,79534,14.29,4445,472468410.85,41583.21,106292.11
+Search - Region - Shoes - Dress Shoes,Android,July,Q3,2019,enabled,44599,445990,10.0,3705,313390789.12,7026.86,84585.91
+Search - Region - Shoes - Dress Shoes,Ios,July,Q3,2019,paused,43161,388449,11.11,3472,512057009.45,11863.88,147481.86
+Search - Region - Clothes - Skirts,Android,July,Q3,2019,enabled,16237,113659,14.29,923,155009856.18,9546.71,167941.34
+Search - Region - Clothes - Skirts,Ios,July,Q3,2019,paused,40638,690846,5.88,2979,772436532.91,19007.74,259293.9
+Search - Region - Clothes - Pants,Android,July,Q3,2019,enabled,11163,133956,8.33,2368,533465426.14,47788.72,225281.01
+Search - Region - Clothes - Pants,Ios,July,Q3,2019,removed,38267,535738,7.14,319,685919078.33,17924.56,2150216.55
+Search - Region - Shoes - Heals,Android,July,Q3,2019,enabled,21768,239448,9.09,4341,505195152.25,23208.16,116377.6
+Search - Region - Shoes - Heals,Ios,July,Q3,2019,enabled,27673,387422,7.14,547,637851199.68,23049.59,1166089.94
+Search - Region - Shoes - Trainers,Android,July,Q3,2019,removed,34432,585344,5.88,1023,230811316.7,6703.4,225622.01
+Search - Region - Shoes - Trainers,Ios,July,Q3,2019,enabled,40923,286461,14.29,4427,716543396.07,17509.55,161857.56
+Search - Region - Shoes - Boots,Android,July,Q3,2019,removed,25664,384960,6.67,1181,340128686.62,13253.14,288000.58
+Search - Region - Shoes - Boots,Ios,July,Q3,2019,paused,29581,473296,6.25,4575,562206536.75,19005.66,122886.67
+Search - Region - Clothes - Shirts,Android,July,Q3,2019,paused,6783,33915,20.0,4911,100649426.95,14838.48,20494.69
+Search - Region - Clothes - Shirts,Ios,July,Q3,2019,paused,16138,96828,16.67,595,761509997.71,47187.38,1279848.74
+Search - Region - Brand- Brand 8,Android,July,Q3,2019,paused,35201,492814,7.14,4204,625332500.5,17764.62,148747.03
+Search - Region - Brand- Brand 8,Ios,July,Q3,2019,removed,47993,815881,5.88,775,530402966.23,11051.67,684390.92
+Search - Region - Brand - Brand 9,Android,July,Q3,2019,enabled,42373,381357,11.11,2373,112697805.33,2659.66,47491.7
+Search - Region - Brand - Brand 9,Ios,July,Q3,2019,paused,35508,390588,9.09,1372,452292629.67,12737.77,329659.35
+Search - Region - Shoes - Running Shoes,Android,July,Q3,2019,removed,40432,283024,14.29,2640,574006911.2,14196.85,217426.86
+Search - Region - Shoes - Running Shoes,Ios,July,Q3,2019,paused,17639,105834,16.67,2102,114659598.79,6500.35,54547.86
+Search - Region - Clothes - Dresses,Android,July,Q3,2019,removed,9601,182419,5.26,550,281967547.91,29368.56,512668.27
+Search - Region - Clothes - Dresses,Ios,July,Q3,2019,enabled,45126,451260,10.0,1078,59498728.67,1318.5,55193.63
+Search - Region - Clothes - Hats,Android,July,Q3,2019,paused,47973,239865,20.0,1442,422309699.39,8803.07,292863.87
+Search - Region - Clothes - Hats,Ios,July,Q3,2019,removed,36275,471575,7.69,1467,328902073.17,9066.91,224200.46
+Search - Region - Shoes - Flip Flops,Android,July,Q3,2019,paused,19613,156904,12.5,340,301258269.74,15360.13,886053.73
+Search - Region - Shoes - Flip Flops,Ios,July,Q3,2019,removed,19824,138768,14.29,2254,584242436.15,29471.47,259202.5
+Display - Region - Clothes - Shirts,Android,July,Q3,2019,paused,43125,301875,14.29,4164,391398333.26,9075.9,93995.76
+Display - Region - Clothes - Shirts,Ios,July,Q3,2019,enabled,5633,112660,5.0,4743,175161044.49,31095.52,36930.43
+Display - Region - Shoes - Boots,Android,July,Q3,2019,enabled,18719,149752,12.5,4801,555590323.67,29680.56,115723.87
+Display - Region - Shoes - Boots,Ios,July,Q3,2019,enabled,16968,84840,20.0,460,694016756.84,40901.51,1508732.08
+Search - Brand - Shoes - Sneakers,Android,July,Q3,2019,enabled,18026,108156,16.67,3964,322982372.25,17917.58,81478.9
+Search - Brand - Shoes - Sneakers,Ios,July,Q3,2019,removed,13728,82368,16.67,4629,652336614.84,47518.69,140923.87
+Display - Brand - Clothes - Jackets,Android,July,Q3,2019,paused,44972,809496,5.56,1939,291351510.85,6478.51,150258.64
+Display - Brand - Clothes - Jackets,Ios,July,Q3,2019,removed,49204,738060,6.67,2322,669497746.66,13606.57,288328.06
+Search - Region - Shoes - Dress Shoes,Android,August,Q3,2019,enabled,26432,211456,12.5,4212,554994287.54,20997.06,131765.03
+Search - Region - Shoes - Dress Shoes,Ios,August,Q3,2019,paused,13753,165036,8.33,4325,786060397.96,57155.56,181748.07
+Search - Region - Clothes - Skirts,Android,August,Q3,2019,paused,6517,123823,5.26,2412,630145609.63,96692.59,261254.4
+Search - Region - Clothes - Skirts,Ios,August,Q3,2019,paused,23449,164143,14.29,4630,392559631.96,16741.0,84786.1
+Search - Region - Clothes - Pants,Android,August,Q3,2019,removed,15151,212114,7.14,4718,638380412.97,42134.54,135307.42
+Search - Region - Clothes - Pants,Ios,August,Q3,2019,paused,42810,513720,8.33,3900,326205220.77,7619.84,83642.36
+Search - Region - Shoes - Heals,Android,August,Q3,2019,paused,14807,177684,8.33,1333,54783412.06,3699.83,41097.83
+Search - Region - Shoes - Heals,Ios,August,Q3,2019,removed,3566,42792,8.33,4536,309817773.3,86881.04,68301.98
+Search - Region - Shoes - Trainers,Android,August,Q3,2019,paused,2628,39420,6.67,111,619196864.91,235615.25,5578350.13
+Search - Region - Shoes - Trainers,Ios,August,Q3,2019,enabled,49658,695212,7.14,951,203895779.68,4106.0,214401.45
+Search - Region - Shoes - Boots,Android,August,Q3,2019,enabled,29513,590260,5.0,590,779419426.98,26409.36,1321049.88
+Search - Region - Shoes - Boots,Ios,August,Q3,2019,enabled,48638,632294,7.69,862,82925199.28,1704.95,96200.93
+Search - Region - Clothes - Shirts,Android,August,Q3,2019,removed,36062,649116,5.56,3151,393843521.41,10921.29,124990.01
+Search - Region - Clothes - Shirts,Ios,August,Q3,2019,paused,7564,60512,12.5,4240,150135387.69,19848.68,35409.29
+Search - Region - Brand- Brand 8,Android,August,Q3,2019,enabled,6904,41424,16.67,3663,546832946.12,79205.24,149285.54
+Search - Region - Brand- Brand 8,Ios,August,Q3,2019,paused,17517,245238,7.14,2238,688185279.34,39286.71,307500.12
+Search - Region - Brand - Brand 9,Android,August,Q3,2019,enabled,47922,718830,6.67,2705,389568389.24,8129.22,144017.89
+Search - Region - Brand - Brand 9,Ios,August,Q3,2019,removed,6894,75834,9.09,1215,634952736.85,92102.22,522594.85
+Search - Region - Shoes - Running Shoes,Android,August,Q3,2019,paused,9141,82269,11.11,965,173281235.52,18956.49,179566.05
+Search - Region - Shoes - Running Shoes,Ios,August,Q3,2019,enabled,22580,406440,5.56,1089,451943411.82,20015.21,415007.72
+Search - Region - Clothes - Dresses,Android,August,Q3,2019,enabled,31616,442624,7.14,3895,248755945.19,7868.04,63865.45
+Search - Region - Clothes - Dresses,Ios,August,Q3,2019,removed,7925,79250,10.0,2592,669790015.95,84516.09,258406.64
+Search - Region - Clothes - Hats,Android,August,Q3,2019,paused,41538,249228,16.67,1861,676943563.24,16296.97,363752.59
+Search - Region - Clothes - Hats,Ios,August,Q3,2019,paused,11720,82040,14.29,2133,776300003.13,66237.2,363947.49
+Search - Region - Shoes - Flip Flops,Android,August,Q3,2019,enabled,35650,213900,16.67,2548,245125094.54,6875.88,96202.94
+Search - Region - Shoes - Flip Flops,Ios,August,Q3,2019,removed,4036,68612,5.88,3804,466965321.16,115700.03,122756.39
+Display - Region - Clothes - Shirts,Android,August,Q3,2019,enabled,18374,146992,12.5,3885,126430511.5,6880.95,32543.25
+Display - Region - Clothes - Shirts,Ios,August,Q3,2019,enabled,9959,49795,20.0,605,672779248.92,67554.9,1112031.82
+Display - Region - Shoes - Boots,Android,August,Q3,2019,removed,10566,116226,9.09,3381,329179807.86,31154.63,97361.67
+Display - Region - Shoes - Boots,Ios,August,Q3,2019,enabled,44250,309750,14.29,4870,489589064.15,11064.16,100531.64
+Search - Brand - Shoes - Sneakers,Android,August,Q3,2019,paused,3428,23996,14.29,1719,726872061.45,212039.69,422845.88
+Search - Brand - Shoes - Sneakers,Ios,August,Q3,2019,paused,10440,73080,14.29,2816,141895744.44,13591.55,50389.11
+Display - Brand - Clothes - Jackets,Android,August,Q3,2019,removed,5318,53180,10.0,4801,374867282.93,70490.28,78081.08
+Display - Brand - Clothes - Jackets,Ios,August,Q3,2019,paused,27886,557720,5.0,341,337047078.93,12086.61,988407.86
+Search - Region - Shoes - Dress Shoes,Android,September,Q3,2019,paused,13325,213200,6.25,1858,731228161.9,54876.41,393556.6
+Search - Region - Shoes - Dress Shoes,Ios,September,Q3,2019,removed,20340,386460,5.26,1317,75987082.8,3735.84,57697.1
+Search - Region - Clothes - Skirts,Android,September,Q3,2019,removed,42434,509208,8.33,2517,424168707.5,9995.96,168521.54
+Search - Region - Clothes - Skirts,Ios,September,Q3,2019,enabled,33393,200358,16.67,818,259831990.58,7781.03,317643.02
+Search - Region - Clothes - Pants,Android,September,Q3,2019,removed,29474,324214,9.09,4407,236860816.35,8036.26,53746.5
+Search - Region - Clothes - Pants,Ios,September,Q3,2019,paused,3279,55743,5.88,3041,409763329.17,124965.94,134746.24
+Search - Region - Shoes - Heals,Android,September,Q3,2019,enabled,24546,368190,6.67,3281,252826763.58,10300.12,77057.84
+Search - Region - Shoes - Heals,Ios,September,Q3,2019,paused,22897,274764,8.33,340,721823586.21,31524.81,2123010.55
+Search - Region - Shoes - Trainers,Android,September,Q3,2019,removed,5839,116780,5.0,4437,318074669.5,54474.17,71686.88
+Search - Region - Shoes - Trainers,Ios,September,Q3,2019,enabled,17254,172540,10.0,920,235892790.5,13671.77,256405.21
+Search - Region - Shoes - Boots,Android,September,Q3,2019,paused,19467,116802,16.67,1897,481769081.46,24747.99,253963.67
+Search - Region - Shoes - Boots,Ios,September,Q3,2019,paused,25252,252520,10.0,1542,227413349.56,9005.76,147479.47
+Search - Region - Clothes - Shirts,Android,September,Q3,2019,removed,47719,763504,6.25,4946,71154927.3,1491.12,14386.36
+Search - Region - Clothes - Shirts,Ios,September,Q3,2019,paused,25047,225423,11.11,4712,761276379.53,30393.91,161561.2
+Search - Region - Brand- Brand 8,Android,September,Q3,2019,enabled,37528,525392,7.14,1538,417827315.1,11133.75,271669.26
+Search - Region - Brand- Brand 8,Ios,September,Q3,2019,paused,5681,68172,8.33,1892,64945992.42,11432.14,34326.63
+Search - Region - Brand - Brand 9,Android,September,Q3,2019,paused,2044,30660,6.67,1750,654834059.98,320368.91,374190.89
+Search - Region - Brand - Brand 9,Ios,September,Q3,2019,enabled,48985,489850,10.0,2750,94666972.13,1932.57,34424.35
+Search - Region - Shoes - Running Shoes,Android,September,Q3,2019,paused,40444,363996,11.11,1008,684860665.68,16933.55,679425.26
+Search - Region - Shoes - Running Shoes,Ios,September,Q3,2019,paused,6753,108048,6.25,3340,489512497.38,72488.15,146560.63
+Search - Region - Clothes - Dresses,Android,September,Q3,2019,removed,21776,326640,6.67,1217,781895503.54,35906.3,642477.82
+Search - Region - Clothes - Dresses,Ios,September,Q3,2019,removed,30630,612600,5.0,2699,180652003.22,5897.88,66932.94
+Search - Region - Clothes - Hats,Android,September,Q3,2019,enabled,47453,759248,6.25,1928,549148752.11,11572.48,284828.19
+Search - Region - Clothes - Hats,Ios,September,Q3,2019,removed,26797,375158,7.14,2512,145511273.54,5430.13,57926.46
+Search - Region - Shoes - Flip Flops,Android,September,Q3,2019,removed,2117,35989,5.88,4748,74287057.2,35090.72,15645.97
+Search - Region - Shoes - Flip Flops,Ios,September,Q3,2019,paused,22854,274248,8.33,4732,128082674.76,5604.39,27067.34
+Display - Region - Clothes - Shirts,Android,September,Q3,2019,paused,11217,168255,6.67,737,228496943.86,20370.59,310036.56
+Display - Region - Clothes - Shirts,Ios,September,Q3,2019,paused,13002,91014,14.29,2850,384972450.57,29608.71,135078.05
+Display - Region - Shoes - Boots,Android,September,Q3,2019,enabled,15741,188892,8.33,655,312860871.42,19875.54,477650.19
+Display - Region - Shoes - Boots,Ios,September,Q3,2019,removed,49213,246065,20.0,494,339452823.47,6897.63,687151.46
+Search - Brand - Shoes - Sneakers,Android,September,Q3,2019,paused,29502,295020,10.0,3491,419811495.11,14229.93,120255.37
+Search - Brand - Shoes - Sneakers,Ios,September,Q3,2019,removed,25018,425306,5.88,930,671605233.17,26844.88,722156.16
+Display - Brand - Clothes - Jackets,Android,September,Q3,2019,enabled,44661,535932,8.33,1432,388465564.36,8698.09,271274.84
+Display - Brand - Clothes - Jackets,Ios,September,Q3,2019,enabled,21327,106635,20.0,2710,245845782.49,11527.44,90718.0
+Search - Region - Shoes - Dress Shoes,Android,October,Q4,2019,enabled,6862,102930,6.67,1493,715948450.8,104335.24,479536.81
+Search - Region - Shoes - Dress Shoes,Ios,October,Q4,2019,enabled,49971,349797,14.29,4581,756375607.65,15136.29,165111.46
+Search - Region - Clothes - Skirts,Android,October,Q4,2019,removed,24147,482940,5.0,353,373492500.61,15467.45,1058052.41
+Search - Region - Clothes - Skirts,Ios,October,Q4,2019,paused,12813,230634,5.56,1386,90166807.0,7037.13,65055.42
+Search - Region - Clothes - Pants,Android,October,Q4,2019,removed,15470,170170,9.09,3452,572897527.86,37032.81,165961.05
+Search - Region - Clothes - Pants,Ios,October,Q4,2019,enabled,49839,647907,7.69,2406,273050485.76,5478.65,113487.32
+Search - Region - Shoes - Heals,Android,October,Q4,2019,paused,5252,89284,5.88,4783,462246975.15,88013.51,96643.73
+Search - Region - Shoes - Heals,Ios,October,Q4,2019,enabled,12065,72390,16.67,3055,52861679.13,4381.41,17303.33
+Search - Region - Shoes - Trainers,Android,October,Q4,2019,enabled,21303,426060,5.0,1735,122740173.11,5761.64,70743.62
+Search - Region - Shoes - Trainers,Ios,October,Q4,2019,enabled,13195,184730,7.14,771,405177988.36,30706.93,525522.68
+Search - Region - Shoes - Boots,Android,October,Q4,2019,removed,22208,377536,5.88,3957,416822609.09,18769.03,105338.04
+Search - Region - Shoes - Boots,Ios,October,Q4,2019,paused,19367,135569,14.29,4557,340645337.77,17588.96,74752.1
+Search - Region - Clothes - Shirts,Android,October,Q4,2019,paused,26998,431968,6.25,1628,384331453.1,14235.55,236075.83
+Search - Region - Clothes - Shirts,Ios,October,Q4,2019,paused,30818,585542,5.26,2257,219681710.21,7128.36,97333.5
+Search - Region - Brand- Brand 8,Android,October,Q4,2019,removed,38978,233868,16.67,1338,614176356.59,15757.0,459025.68
+Search - Region - Brand- Brand 8,Ios,October,Q4,2019,paused,8337,58359,14.29,2916,656135118.05,78701.59,225012.04
+Search - Region - Brand - Brand 9,Android,October,Q4,2019,paused,40648,487776,8.33,4635,95737809.54,2355.29,20655.41
+Search - Region - Brand - Brand 9,Ios,October,Q4,2019,paused,36247,652446,5.56,4486,565300949.29,15595.8,126014.48
+Search - Region - Shoes - Running Shoes,Android,October,Q4,2019,paused,39533,474396,8.33,4001,274139081.76,6934.44,68517.64
+Search - Region - Shoes - Running Shoes,Ios,October,Q4,2019,removed,48812,292872,16.67,4213,478414951.45,9801.17,113556.84
+Search - Region - Clothes - Dresses,Android,October,Q4,2019,paused,39452,355068,11.11,1085,761941112.34,19313.12,702249.87
+Search - Region - Clothes - Dresses,Ios,October,Q4,2019,enabled,13329,133290,10.0,1835,656345540.99,49241.92,357681.49
+Search - Region - Clothes - Hats,Android,October,Q4,2019,paused,4796,86328,5.56,741,791209952.25,164972.88,1067759.72
+Search - Region - Clothes - Hats,Ios,October,Q4,2019,removed,15232,137088,11.11,4974,243414769.99,15980.49,48937.43
+Search - Region - Shoes - Flip Flops,Android,October,Q4,2019,removed,6391,44737,14.29,3279,467273152.98,73114.25,142504.77
+Search - Region - Shoes - Flip Flops,Ios,October,Q4,2019,enabled,23373,303849,7.69,4357,393617885.84,16840.71,90341.49
+Display - Region - Clothes - Shirts,Android,October,Q4,2019,enabled,47902,862236,5.56,1021,360831799.08,7532.71,353410.19
+Display - Region - Clothes - Shirts,Ios,October,Q4,2019,enabled,39132,313056,12.5,965,472012819.61,12062.07,489132.46
+Display - Region - Shoes - Boots,Android,October,Q4,2019,removed,20749,331984,6.25,3466,248102472.63,11957.32,71581.79
+Display - Region - Shoes - Boots,Ios,October,Q4,2019,paused,33823,676460,5.0,406,179149796.12,5296.69,441255.66
+Search - Brand - Shoes - Sneakers,Android,October,Q4,2019,paused,11427,194259,5.88,417,346844558.17,30353.07,831761.53
+Search - Brand - Shoes - Sneakers,Ios,October,Q4,2019,paused,47253,567036,8.33,503,609312364.88,12894.68,1211356.59
+Display - Brand - Clothes - Jackets,Android,October,Q4,2019,paused,26408,132040,20.0,2867,663039443.98,25107.52,231265.94
+Display - Brand - Clothes - Jackets,Ios,October,Q4,2019,removed,22378,290914,7.69,4127,693676087.43,30998.13,168082.41
+Search - Region - Shoes - Dress Shoes,Android,November,Q4,2019,removed,8436,101232,8.33,1200,275360335.64,32641.1,229466.95
+Search - Region - Shoes - Dress Shoes,Ios,November,Q4,2019,removed,31039,465585,6.67,2307,596599559.95,19220.97,258604.06
+Search - Region - Clothes - Skirts,Android,November,Q4,2019,paused,44307,310149,14.29,1639,381287448.54,8605.58,232634.2
+Search - Region - Clothes - Skirts,Ios,November,Q4,2019,enabled,33749,539984,6.25,560,436452276.96,12932.3,779379.07
+Search - Region - Clothes - Pants,Android,November,Q4,2019,removed,6300,88200,7.14,4251,352538855.76,55958.55,82930.81
+Search - Region - Clothes - Pants,Ios,November,Q4,2019,enabled,39268,196340,20.0,1523,194572585.12,4954.99,127756.13
+Search - Region - Shoes - Heals,Android,November,Q4,2019,paused,5776,69312,8.33,370,392336500.35,67925.29,1060368.92
+Search - Region - Shoes - Heals,Ios,November,Q4,2019,paused,48178,529958,9.09,2344,326263945.68,6772.05,139191.1
+Search - Region - Shoes - Trainers,Android,November,Q4,2019,enabled,35103,596751,5.88,1114,560880770.33,15978.14,503483.64
+Search - Region - Shoes - Trainers,Ios,November,Q4,2019,paused,26409,528180,5.0,4966,384577574.46,14562.37,77442.12
+Search - Region - Shoes - Boots,Android,November,Q4,2019,paused,40461,647376,6.25,2920,172635210.89,4266.71,59121.65
+Search - Region - Shoes - Boots,Ios,November,Q4,2019,enabled,47144,330008,14.29,2435,70587867.42,1497.28,28988.86
+Search - Region - Clothes - Shirts,Android,November,Q4,2019,removed,12676,139436,9.09,1913,535534918.82,42247.94,279945.07
+Search - Region - Clothes - Shirts,Ios,November,Q4,2019,removed,15548,202124,7.69,3454,434960925.32,27975.36,125929.63
+Search - Region - Brand- Brand 8,Android,November,Q4,2019,removed,2583,51660,5.0,1183,535528665.63,207328.17,452686.95
+Search - Region - Brand- Brand 8,Ios,November,Q4,2019,paused,2554,30648,8.33,2167,506257912.17,198221.58,233621.56
+Search - Region - Brand - Brand 9,Android,November,Q4,2019,paused,48710,633230,7.69,3571,721612231.3,14814.46,202075.67
+Search - Region - Brand - Brand 9,Ios,November,Q4,2019,removed,32080,417040,7.69,1887,400023511.62,12469.56,211989.14
+Search - Region - Shoes - Running Shoes,Android,November,Q4,2019,removed,36120,614040,5.88,4888,126734077.23,3508.7,25927.59
+Search - Region - Shoes - Running Shoes,Ios,November,Q4,2019,removed,45408,726528,6.25,4699,535506590.05,11793.22,113961.82
+Search - Region - Clothes - Dresses,Android,November,Q4,2019,paused,20525,287350,7.14,985,411303814.11,20039.16,417567.32
+Search - Region - Clothes - Dresses,Ios,November,Q4,2019,removed,20119,301785,6.67,2368,245860180.94,12220.3,103826.09
+Search - Region - Clothes - Hats,Android,November,Q4,2019,enabled,44694,625716,7.14,1643,162446972.27,3634.65,98872.17
+Search - Region - Clothes - Hats,Ios,November,Q4,2019,removed,5720,97240,5.88,2718,560566812.79,98001.19,206242.39
+Search - Region - Shoes - Flip Flops,Android,November,Q4,2019,paused,3668,73360,5.0,2521,244569704.53,66676.58,97012.97
+Search - Region - Shoes - Flip Flops,Ios,November,Q4,2019,removed,28515,484755,5.88,389,487267776.81,17088.12,1252616.39
+Display - Region - Clothes - Shirts,Android,November,Q4,2019,removed,14446,216690,6.67,1921,564738583.2,39093.08,293981.56
+Display - Region - Clothes - Shirts,Ios,November,Q4,2019,enabled,33177,530832,6.25,4255,275146121.41,8293.28,64664.19
+Display - Region - Shoes - Boots,Android,November,Q4,2019,enabled,45097,450970,10.0,2506,123202297.86,2731.94,49162.93
+Display - Region - Shoes - Boots,Ios,November,Q4,2019,enabled,18951,189510,10.0,2849,540825983.26,28538.12,189830.11
+Search - Brand - Shoes - Sneakers,Android,November,Q4,2019,paused,25283,303396,8.33,2615,365354426.14,14450.6,139714.89
+Search - Brand - Shoes - Sneakers,Ios,November,Q4,2019,enabled,26358,342654,7.69,4896,270538341.24,10263.99,55257.01
+Display - Brand - Clothes - Jackets,Android,November,Q4,2019,removed,32837,197022,16.67,4880,485234831.33,14777.08,99433.37
+Display - Brand - Clothes - Jackets,Ios,November,Q4,2019,removed,6667,133340,5.0,1693,425358030.87,63800.51,251245.15
+Search - Region - Shoes - Dress Shoes,Android,December,Q4,2019,enabled,27013,378182,7.14,3484,90546477.98,3351.96,25989.23
+Search - Region - Shoes - Dress Shoes,Ios,December,Q4,2019,removed,11002,121022,9.09,2907,356893885.06,32439.0,122770.51
+Search - Region - Clothes - Skirts,Android,December,Q4,2019,enabled,31987,287883,11.11,2691,696795457.5,21783.71,258935.51
+Search - Region - Clothes - Skirts,Ios,December,Q4,2019,enabled,7296,145920,5.0,2824,523274579.2,71720.75,185295.53
+Search - Region - Clothes - Pants,Android,December,Q4,2019,enabled,22539,135234,16.67,138,389039921.43,17260.74,2819129.87
+Search - Region - Clothes - Pants,Ios,December,Q4,2019,enabled,13049,130490,10.0,4110,638908179.27,48962.23,155452.11
+Search - Region - Shoes - Heals,Android,December,Q4,2019,paused,10480,188640,5.56,3617,352545110.3,33639.8,97468.93
+Search - Region - Shoes - Heals,Ios,December,Q4,2019,removed,27121,135605,20.0,409,450336952.13,16604.73,1101068.34
+Search - Region - Shoes - Trainers,Android,December,Q4,2019,removed,26451,132255,20.0,2739,617635803.48,23350.19,225496.82
+Search - Region - Shoes - Trainers,Ios,December,Q4,2019,enabled,14489,72445,20.0,133,520015196.5,35890.34,3909888.7
+Search - Region - Shoes - Boots,Android,December,Q4,2019,paused,16828,269248,6.25,2656,146698100.32,8717.5,55232.72
+Search - Region - Shoes - Boots,Ios,December,Q4,2019,enabled,34986,489804,7.14,1468,98965266.85,2828.71,67415.03
+Search - Region - Clothes - Shirts,Android,December,Q4,2019,removed,21542,301588,7.14,3834,595873933.59,27661.03,155418.34
+Search - Region - Clothes - Shirts,Ios,December,Q4,2019,enabled,36348,545220,6.67,3652,715980532.88,19697.93,196051.62
+Search - Region - Brand- Brand 8,Android,December,Q4,2019,enabled,24461,489220,5.0,3042,612586686.7,25043.4,201376.29
+Search - Region - Brand- Brand 8,Ios,December,Q4,2019,enabled,28436,142180,20.0,1971,218241022.49,7674.81,110726.04
+Search - Region - Brand - Brand 9,Android,December,Q4,2019,enabled,15840,79200,20.0,4930,428475165.94,27050.2,86911.8
+Search - Region - Brand - Brand 9,Ios,December,Q4,2019,paused,26024,156144,16.67,3173,707408103.2,27182.91,222946.14
+Search - Region - Shoes - Running Shoes,Android,December,Q4,2019,removed,37044,222264,16.67,4965,796010175.24,21488.23,160324.31
+Search - Region - Shoes - Running Shoes,Ios,December,Q4,2019,paused,9085,45425,20.0,495,567312311.28,62444.94,1146085.48
+Search - Region - Clothes - Dresses,Android,December,Q4,2019,paused,31118,529006,5.88,1112,460461788.55,14797.28,414084.34
+Search - Region - Clothes - Dresses,Ios,December,Q4,2019,removed,47997,431973,11.11,1783,571394021.92,11904.79,320467.76
+Search - Region - Clothes - Hats,Android,December,Q4,2019,removed,2609,36526,7.14,3547,546248432.07,209370.81,154002.94
+Search - Region - Clothes - Hats,Ios,December,Q4,2019,enabled,36098,469274,7.69,1223,364119313.83,10086.97,297726.34
+Search - Region - Shoes - Flip Flops,Android,December,Q4,2019,enabled,35527,284216,12.5,2415,135509414.51,3814.27,56111.56
+Search - Region - Shoes - Flip Flops,Ios,December,Q4,2019,removed,34619,380809,9.09,1736,633469187.45,18298.31,364901.61
+Display - Region - Clothes - Shirts,Android,December,Q4,2019,enabled,15216,243456,6.25,3456,271513400.75,17843.94,78562.91
+Display - Region - Clothes - Shirts,Ios,December,Q4,2019,paused,37922,758440,5.0,1801,566152936.59,14929.41,314354.77
+Display - Region - Shoes - Boots,Android,December,Q4,2019,enabled,23666,283992,8.33,122,59562050.95,2516.78,488213.53
+Display - Region - Shoes - Boots,Ios,December,Q4,2019,removed,9237,184740,5.0,1321,762084511.8,82503.47,576899.71
+Search - Brand - Shoes - Sneakers,Android,December,Q4,2019,paused,6918,55344,12.5,2196,533252593.68,77081.9,242829.05
+Search - Brand - Shoes - Sneakers,Ios,December,Q4,2019,enabled,21400,278200,7.69,3903,87560146.86,4091.6,22434.06
+Display - Brand - Clothes - Jackets,Android,December,Q4,2019,paused,4585,64190,7.14,3050,651197077.02,142027.72,213507.24
+Display - Brand - Clothes - Jackets,Ios,December,Q4,2019,enabled,29918,239344,12.5,878,688434425.51,23010.71,784093.88
