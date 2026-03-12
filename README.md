@@ -45,7 +45,8 @@ The focus of this project was not just visualization — but accurate metric mod
 
 ## 📷 Dashboard Preview
 
-<img width="2398" height="1598" alt="Google Ads Dashboard" src="https://github.com/user-attachments/assets/08c0daef-d95b-4f39-8e29-0eb188e4405d" />
+
+<img width="1794" height="1198" alt="Image 3-12-26 at 5 24 AM" src="https://github.com/user-attachments/assets/6d22da2b-3e88-4471-bceb-3c23b2c2ef96" />
 
 ---
 
